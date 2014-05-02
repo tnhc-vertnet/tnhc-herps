@@ -1,0 +1,214 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 1305
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: United States ; Times: 73
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 3
+	Date: 2014-04-02 ; Times: 24
+	Date: 2014-04-03 ; Times: 3
+	Date: 2014-04-08 ; Times: 3
+	Date: 2014-04-09 ; Times: 3
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-11 ; Times: 2
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 2
+	Date: 2014-04-15 ; Times: 10
+	Date: 2014-04-16 ; Times: 13
+	Date: 2014-04-17 ; Times: 5
+	Date: 2014-04-19 ; Times: 3
+	Date: 2014-04-20 ; Times: 29
+	Date: 2014-04-21 ; Times: 15
+	Date: 2014-04-22 ; Times: 15
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(35.460669951495305,-90.87890625))<100000" ; Times: 1
+	Query: "Sceloporus pyrocephalus" ; Times: 1
+	Query: "Phrynopus type:specimen (cleared and stained)" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 1
+	Query: "U.S. Virgin Islands" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 4
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "tarsius" ; Times: 2
+	Query: "anolis capito" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "3270" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 4
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Bothrops pictus" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 8
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 3
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 11
+	Query: "Lachesis muta" ; Times: 1
+	Query: "tnhc 21702" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 14
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: ""agkistrodon piscivorus" mappable:1" ; Times: 1
+	Query: "Virgin Islands" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "catfish" ; Times: 1
+	Query: "varanidae (dry)" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "helotes creek texas" ; Times: 1
+	Query: "varanidae (skeleton and dry)" ; Times: 1
+	Query: "Birkhead" ; Times: 2
+	Query: "Phrynopus type:specimen" ; Times: 2
+	Query: "Sceloporus mucronatus" ; Times: 18
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: ""agkistrodon piscivorus"" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 1
+	Query: ""hyla gratiosa"" ; Times: 1
+	Query: "13628 mvz" ; Times: 1
+	Query: "coluber ravergieri" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 3
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 4
+	Query: "parviceps" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 2
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "Melanophryniscus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "polychrus gutturosus panama" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Birkhead (Roger OR R.)" ; Times: 2
+	Query: "Amastridium" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "cicada" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Los Mangos" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Birkhead year >= 1973" ; Times: 4
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 433 download events in this period)
+Total number of records downloaded: 4383 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3010
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-02 ; Times: 5
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-05 ; Times: 2
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-15 ; Times: 3
+	Date: 2014-04-16 ; Times: 23
+	Date: 2014-04-17 ; Times: 3
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-20 ; Times: 2
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-22 ; Times: 8
+	Date: 2014-04-23 ; Times: 2
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-27 ; Times: 1
+	Date: 2014-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gopherus agassizii mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Bothrops pictus" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: ""agkistrodon piscivorus" mappable:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "varanidae (dry)" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 2
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "country:"china" class:reptilia" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "genus:Ctenotus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "genus:Hyperolius mappable:1" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "specificepithet:pardalis genus:geochelone" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "psammophis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 137
+Total number of records retrieved from searches: 1305
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 4383
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 137
+Total number of records retrieved from searches: 1305
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 4383
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
