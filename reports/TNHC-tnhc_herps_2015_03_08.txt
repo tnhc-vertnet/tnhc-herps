@@ -1,0 +1,407 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 303
+Number of records retrieved in searches: 2513
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 6
+	Country: Germany ; Times: 1
+	Country: India ; Times: 3
+	Country: Latvia ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: Panama ; Times: 1
+	Country: Russia ; Times: 1
+	Country: South Africa ; Times: 7
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 228
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 5
+	Date: 2015-02-02 ; Times: 12
+	Date: 2015-02-03 ; Times: 15
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 11
+	Date: 2015-02-06 ; Times: 8
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-08 ; Times: 35
+	Date: 2015-02-09 ; Times: 12
+	Date: 2015-02-10 ; Times: 11
+	Date: 2015-02-11 ; Times: 17
+	Date: 2015-02-12 ; Times: 22
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-14 ; Times: 15
+	Date: 2015-02-15 ; Times: 9
+	Date: 2015-02-16 ; Times: 4
+	Date: 2015-02-17 ; Times: 8
+	Date: 2015-02-18 ; Times: 23
+	Date: 2015-02-19 ; Times: 11
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-22 ; Times: 8
+	Date: 2015-02-23 ; Times: 12
+	Date: 2015-02-24 ; Times: 27
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-26 ; Times: 13
+	Date: 2015-02-27 ; Times: 5
+	Date: 2015-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"louisiana" genus:ambystoma year >= 1990 year <= 2015" ; Times: 1
+	Query: "country:"Panama" genus:Erythrolamprus" ; Times: 1
+	Query: "gopherus berlandieri stateprovince:"texas" genus:gopherus mappable:1" ; Times: 2
+	Query: "specificepithet:moreletii genus:Agalychnis" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "sceloporus arenicolus new mexico" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Hypsiglena" ; Times: 1
+	Query: ""telmatobius schreiteri"" ; Times: 1
+	Query: "county:"inyo" genus:crotalus" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 10
+	Query: "Trachemys county:"Brewster" stateprovince:"Texas" year <= 2015" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 4
+	Query: "Contia tenuis stateprovince:"California" year >= 1990 year <= 2015" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:"tamaulipas"" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia institutioncode:TNHC" ; Times: 1
+	Query: "country:"Costa Rica" genus:Dendrophidion" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "tnhc eleutherodactylus" ; Times: 3
+	Query: "genus:Heloderma" ; Times: 4
+	Query: "flatwoods salamander" ; Times: 1
+	Query: "country:"Costa Rica" genus:Hydromorphus" ; Times: 1
+	Query: "country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 2
+	Query: "amphibia val verde co tx" ; Times: 1
+	Query: "arizona elegans AND hidalgo county AND new mexico" ; Times: 1
+	Query: "country:"Panama" genus:Drymarchon" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Aspidomorphus" ; Times: 1
+	Query: "country:"Panama" genus:Liophis" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 7
+	Query: "chionactis nye" ; Times: 2
+	Query: "country:"Panama" genus:Oxyrhopus" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "country:"Costa rica" genus:Imantodes" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 2
+	Query: "Arizona elegans nye" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Stegonotus" ; Times: 1
+	Query: "Texas specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus mappable:1" ; Times: 2
+	Query: "country:"Panama" genus:Clelia" ; Times: 1
+	Query: "penstemon" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Amphibia" ; Times: 4
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "craugastor augusti" ; Times: 1
+	Query: "stateprovince:"oklahoma" (Tigrinum)" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "tantilla nigriceps" ; Times: 4
+	Query: "vipera wagneri" ; Times: 1
+	Query: "Chionactis Nye" ; Times: 2
+	Query: "crotalus molossus" ; Times: 2
+	Query: "country:"Panama" genus:Dipsas" ; Times: 2
+	Query: "country:"Panama" specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Tropidonophis" ; Times: 1
+	Query: "Morelia boeleni" ; Times: 7
+	Query: "country:"Panama" specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "spea jalisco" ; Times: 2
+	Query: "country:"Costa Rica" genus:Erythrolamprus" ; Times: 1
+	Query: "Leptodeira Mexico" ; Times: 2
+	Query: "country:"Panama" genus:Pseudoboa" ; Times: 2
+	Query: "country:"Panama" specificepithet:dissoleucus genus:Micrurus" ; Times: 2
+	Query: "country:"Venezuela" genus:Leptodeira" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia" ; Times: 4
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "sistrurus" ; Times: 6
+	Query: "stateprovince:"Antioquia" country:"Colombia" class:Amphibia" ; Times: 1
+	Query: "Strongylopus" ; Times: 1
+	Query: "Hylodes" ; Times: 1
+	Query: "pustulosus" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "nyctixalus" ; Times: 4
+	Query: "Pseustes poecilonotus" ; Times: 2
+	Query: "country:"Papua New Guinea" genus:Dendrelaphis" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "holdridgei" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Pseudacris maculata" ; Times: 1
+	Query: "country:"mexico" specificepithet:vittatus genus:Conophis year <= 2014" ; Times: 1
+	Query: "zygaspis quadrifrons" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "pyxicephalidae" ; Times: 1
+	Query: "country:"Panama" genus:Tantilla" ; Times: 1
+	Query: "reptilia val verde co. texas" ; Times: 1
+	Query: "country:"Panama" genus:Enulius" ; Times: 1
+	Query: "escalerae" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "frog yavapai" ; Times: 1
+	Query: "country:"Costa rica" genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:miliarius genus:Sistrurus" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "hobartsmithi" ; Times: 1
+	Query: "country:"Colombia" genus:Liophis" ; Times: 1
+	Query: "crotalus horridus pennsylvania" ; Times: 1
+	Query: "country:"mexico" specificepithet:diademata genus:ninia year <= 2015" ; Times: 1
+	Query: "country:"Panama" genus:Leptophis" ; Times: 2
+	Query: "Micrurus elegans" ; Times: 3
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana year >= 1960" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 2
+	Query: "county:"San Diego" specificepithet:aurora class:Amphibia" ; Times: 1
+	Query: "Chiasmocleis panamensis" ; Times: 1
+	Query: "lampropeltis triangulum new mexico" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "riga" ; Times: 1
+	Query: "Arizona elegans Nevada" ; Times: 1
+	Query: "Hyla walkeri stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "sceloporus goldmani" ; Times: 4
+	Query: "country:"Mexico" specificepithet:undulatus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus mappable:1" ; Times: 1
+	Query: "country:"Costa Rica" genus:Drymobius" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 3
+	Query: "bombina orientalis" ; Times: 2
+	Query: "country:"Panama" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "Mexico lampropeltis getula" ; Times: 1
+	Query: "stateprovince:"Nuevo" genus:Rana" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Telmatobius mappable:1" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "sistrurus catenatus new mexico" ; Times: 1
+	Query: "msb tantilla nigriceps" ; Times: 1
+	Query: "amphibia val verde co. texas" ; Times: 1
+	Query: "country:"Costa Rica" genus:Coniophanes" ; Times: 1
+	Query: "Hypsiglena Nevada" ; Times: 5
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "Tantilla nigriceps MSB" ; Times: 1
+	Query: "Tomopterna cryptotis" ; Times: 5
+	Query: "Ctenosaura acanthura country:"Mexico"" ; Times: 1
+	Query: "country:"Panama" genus:Imantodes" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "19380 (ttu)" ; Times: 1
+	Query: ""lampropeltis alterna"" ; Times: 1
+	Query: "alterna texas" ; Times: 1
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "Leptodeira annulata Mexico" ; Times: 1
+	Query: "cystignathoides" ; Times: 2
+	Query: "sistrurus catenatus year >= 1990" ; Times: 1
+	Query: "Tantilla nigriceps msb" ; Times: 1
+	Query: "country:"Panama" genus:Drymobius" ; Times: 3
+	Query: "Taricha granulosa county:"Benton" stateprovince:"Oregon"" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "Eleutherodactylus pipilans stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "country:"Panama" genus:Geophis" ; Times: 2
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 3
+	Query: "sistrurus catenatus" ; Times: 2
+	Query: "anolis tnhc" ; Times: 1
+	Query: "type:specimen stateprovince:"North Dakota" (Devils Lake) mappable:1" ; Times: 1
+	Query: "pura" ; Times: 1
+	Query: "regina rigida" ; Times: 8
+	Query: "desmognathus marmoratus" ; Times: 2
+	Query: "Sceloporus spinosus tehuantepec" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:blairi genus:Rana year >= 1990 year <= 2010" ; Times: 1
+	Query: "country:"Panama" genus:Leptodeira" ; Times: 1
+	Query: "tantilla nigriceps new mexico" ; Times: 1
+	Query: "country:"Costa Rica" genus:Leptophis" ; Times: 1
+	Query: "phrynosoma cornutum dona ana county" ; Times: 1
+	Query: "mexico specificepithet:mexicana genus:salvadora" ; Times: 2
+	Query: "msb sceloporus" ; Times: 1
+	Query: "15 km WNW Cali" ; Times: 1
+	Query: "phrynosoma orbiculare and Texas Natural History Collection" ; Times: 1
+	Query: "country:"papua new guinea" genus:aspidomorphus" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Amphibia institutioncode:TNHC" ; Times: 1
+	Query: "Buckley" ; Times: 1
+	Query: "lampropeltis county:"kern"" ; Times: 1
+	Query: "type:specimen country:"cuba" class:amphibia" ; Times: 1
+	Query: "regina rigida Florida" ; Times: 5
+	Query: "country:"Costa Rica" genus:Clelia" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Imantodes cenchoa Mexico" ; Times: 1
+	Query: "Smilisca sila" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus" ; Times: 3
+	Query: "phrynosoma cornutum otero county" ; Times: 2
+	Query: "Phrynosoma orbiculare texas natural History" ; Times: 1
+	Query: "urosaurus new mexico" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 4
+	Query: "lepidodactylus lugubris" ; Times: 1
+	Query: "county:"inyo" specificepithet:exsul" ; Times: 1
+	Query: "Ameiva festiva" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:amphibia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 326 download events in this period)
+Total number of records downloaded: 67838 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 47342
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 2
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: Russia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 55
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 4
+	Date: 2015-02-05 ; Times: 8
+	Date: 2015-02-06 ; Times: 6
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 16
+	Date: 2015-02-13 ; Times: 9
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 7
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 3
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Boa constrictor" ; Times: 1
+	Query: "country:"Mexico" specificepithet:spinosus genus:Sceloporus" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "xenosaurus" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "cystignathoides" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "papantla" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "anolis tnhc" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "specificepithet:yavapaiensis" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "Bastrop county" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "desmognathus marmoratus" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Hyalinobatrachium colymbiphyllum" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Tomopterna cryptotis" ; Times: 1
+	Query: "country:"Mexico" specificepithet:horridus genus:Sceloporus" ; Times: 2
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: ""lampropeltis mexicana"" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "stateprovince:"texas" genus:gopherus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: ""Spea hammondii" mappable:1" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ambystoma country:"mexico"" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "type:specimen country:"cuba" class:amphibia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:variabilis genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Smilisca sila" ; Times: 1
+	Query: "reptilia val verde co. texas" ; Times: 1
+	Query: "country:"Mexico" specificepithet:aeneus genus:Oxybelis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Craugastoridae" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "regina alleni" ; Times: 1
+	Query: "bolitoglossa platydactyla distance(location,geopoint(23.885837699862016,-102.4365234375))<940248" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "specificepithet:sphenocephala" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1583
+Total number of records retrieved from searches: 17549
+Number of download events that retrieved data from the resource: 133
+Total number of records downloaded: 164744
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1876
+Total number of records retrieved from searches: 20213
+Number of download events that retrieved data from the resource: 434
+Total number of records downloaded: 249745
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
