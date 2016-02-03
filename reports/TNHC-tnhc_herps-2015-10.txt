@@ -1,0 +1,362 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 1238
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 154
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 5
+	Date: 2015-10-10 ; Times: 6
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 14
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 16
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 8
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 6
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 14
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 18
+	Date: 2015-10-01 ; Times: 6
+	Date: 2015-10-03 ; Times: 4
+	Date: 2015-10-02 ; Times: 12
+	Date: 2015-10-09 ; Times: 6
+	Date: 2015-10-08 ; Times: 8
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gopherus m" ; Times: 1
+	Query: "genus:Stenorrhina country:&#34;Panama&#34;" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "rhadinaea gaigeae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crotalus molossus county:&#34;hays&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM NOT LACM NOT MCZ)" ; Times: 1
+	Query: "Acanthodactylus schreiberi" ; Times: 1
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "micrurus tener stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "TNHC 21416" ; Times: 1
+	Query: "Corallus Cookii" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "godmani chiapas" ; Times: 2
+	Query: "specificepithet:verrucipes genus:Eleutherodactylus" ; Times: 1
+	Query: "amolops larutensis" ; Times: 1
+	Query: "&#34;pseudobranchus striatus striatus&#34;" ; Times: 1
+	Query: "Trachemys and Zapata" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT AMNH)" ; Times: 2
+	Query: "phyllodactylus ventralis" ; Times: 3
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "dendrobates auratus TNHC" ; Times: 1
+	Query: "Haideotriton" ; Times: 1
+	Query: "type:specimen specificepithet:polystictus genus:crotalus preparations:skeleton" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 4
+	Query: "Bombina maxima" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus institutioncode:TNHC" ; Times: 1
+	Query: "genus:Storeria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Heloderma county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:albirostris genus:Liotyphlops country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 2
+	Query: "Reptilia corcovado costa rica" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "TNHC dendrobates auratus" ; Times: 1
+	Query: "Rhadinaea godmani" ; Times: 16
+	Query: "Fritziana goeldii" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 2
+	Query: "Pipa myersi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT Anolis) institutioncode:TNHC" ; Times: 1
+	Query: "Rhadinaea godmani stateprovince:Chiapas" ; Times: 1
+	Query: "Lepidophyma flavimaculatum stateprovince:Chiapas" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "crotalus scutulatus zacatecas" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "specificepithet:squirella county:&#34;Wharton&#34;" ; Times: 1
+	Query: "Hypsiglena torquata stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Rhadinaea gaigeae" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM NOT LACM NOT MCZ NOT UMMZ)" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chimborazo&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "heterodon marion" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 4
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 2
+	Query: "eric lee" ; Times: 1
+	Query: "Duerre" ; Times: 2
+	Query: "tuxpan veracruz" ; Times: 2
+	Query: "Tantilla Coahuila" ; Times: 2
+	Query: "Crotalus molossus county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT Anolis) institutioncode:TNHC" ; Times: 2
+	Query: "genus:Helicops country:&#34;Colombia&#34;" ; Times: 1
+	Query: "haideotriton" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;New Mexico&#34; institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "bombina maxima" ; Times: 2
+	Query: "rhadinaea godmani" ; Times: 3
+	Query: "corcovado costa rica Amphibia" ; Times: 1
+	Query: "gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "corcovado costa rica oedipina" ; Times: 1
+	Query: "genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "92289" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Anolis auratus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Sacramento&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hylomantis lemur costa rica" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "family:Colubridae county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "lygosoma new guinea" ; Times: 1
+	Query: "molossus austin" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "order:caudata county:&#34;jackson&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "molossus travis" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Zygaspis" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 3
+	Query: "Syrrhophus leprus" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 3
+	Query: "Corallus caninus" ; Times: 1
+	Query: "scutatum maryland" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 2
+	Query: "Trachemys gaigeae" ; Times: 1
+	Query: "Sceloporus serrifer" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "pseudacris maculata arizona" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:TNHC" ; Times: 1
+	Query: "amphibia AND Tuxpan Veracruz" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Apure&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT Anolis)" ; Times: 3
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Agalychnis callidryas oaxaca" ; Times: 4
+	Query: "Romey Swanson" ; Times: 1
+	Query: "Plethodon kiamichi Plethodon kiamichi" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 5
+	Query: "hydromorphus" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Panama&#34; institutioncode:TNHC" ; Times: 1
+	Query: "genus:Lampropeltis family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 131 (out of 823 download events in this period)
+Total number of records downloaded: 17188
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 95
+	Country: Australia ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 12
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 17
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 7
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 9
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Phrynosoma platyrhinos stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "specificepithet:verrucipes genus:Eleutherodactylus" ; Times: 1
+	Query: "type:specimen specificepithet:pipiens class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Black Gap class:Reptilia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "phrynomantis bifasciatus" ; Times: 1
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "Gambelia wislizenii stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Bombina maxima" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "Black Gap class:Amphibia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "eleutherodactylus antillensis" ; Times: 2
+	Query: "Thamnophis elegans stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 3
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Fritziana goeldii" ; Times: 1
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "genus:Chilomeniscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Plestiodon lynxe" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Agalychnis callidryas oaxaca" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Uta stansburiana stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
