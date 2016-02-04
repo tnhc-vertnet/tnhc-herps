@@ -1,0 +1,240 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1202
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 95
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-26 ; Times: 9
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 15
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 11
+	Date: 2016-01-12 ; Times: 10
+	Date: 2016-01-11 ; Times: 6
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "Eleutherodactylus dennisi" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "gorzugi mexico" ; Times: 2
+	Query: "enulius flavitorques country:&#34;panama&#34;" ; Times: 2
+	Query: "eurycea pterophila" ; Times: 2
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 2
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "4.5 mi. N Bergheim" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Xantusia vigilis stateprovince:Utah" ; Times: 1
+	Query: "genus:Orthriophis family:colubridae" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "166 class:Amphibia county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "ficimia variegata" ; Times: 1
+	Query: "gorzugi" ; Times: 4
+	Query: "genus:Lampropeltis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Lampropeltis getula Nevada" ; Times: 1
+	Query: "hemidactylus bastrop" ; Times: 1
+	Query: "turcicus bastrop" ; Times: 1
+	Query: "apache creek texas" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 2
+	Query: "specificepithet:cephalica genus:Pseudoeurycea stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:Ornata genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:erythrurus genus:Coelognathus" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "vibicaria" ; Times: 2
+	Query: "cm 38496" ; Times: 1
+	Query: "heleophryne tissue:1" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "class:reptilia country:&#34;mexico&#34; recordedby:brown year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "concinna texas" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "woodlawn bexar" ; Times: 1
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 2
+	Query: "Trioceros jacksonii" ; Times: 2
+	Query: "tnhc 7955" ; Times: 1
+	Query: "birds type:specimen (costa rica) institutioncode:TNHC" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "eryx jaculus" ; Times: 1
+	Query: "tnhc 3283" ; Times: 1
+	Query: "166 class:Reptilia county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "Eurycea Pterophila" ; Times: 7
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "Stereochilus marginatus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "1111 class:Reptilia county:&#34;hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bolitoglossa platydactyla stateprovince:&#34;veracruz&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 3
+	Query: "spooneri" ; Times: 1
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "Anolis pentaprion" ; Times: 1
+	Query: "coniophanes imperialis oaxaca" ; Times: 1
+	Query: "Agama savignii" ; Times: 1
+	Query: "Rana sierramadrensis" ; Times: 1
+	Query: "type:specimen specificepithet:rufodorsatum" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "genus:Polypedates specificepithet:otilophus" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "catalognumber:38803 institutioncode:TNHC" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "drymarchon texas" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "specificepithet:osgoodi order:Anura" ; Times: 1
+	Query: "catalognumber:58328 institutioncode:TNHC" ; Times: 3
+	Query: "enulius flavitorques" ; Times: 2
+	Query: "eurycea tonkawae" ; Times: 2
+	Query: "Iguana iguana institutioncode:TNHC" ; Times: 1
+	Query: "1111 class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:godmani genus:Rhadinaea stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "58820" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "eleutherodactylus cooki" ; Times: 1
+	Query: "2185 stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sceloporus locality:&#34;Santa Cruz Island&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vibakari genus:Amphiesma" ; Times: 1
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "505 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 507 download events in this period)
+Total number of records downloaded: 23573
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "Chionactis occipitalis nevada" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "enulius flavitorques country:&#34;panama&#34;" ; Times: 4
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "1111 class:Reptilia county:&#34;hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
