@@ -1,0 +1,232 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1344
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 93
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 12
+	Date: 2016-02-22 ; Times: 10
+	Date: 2016-02-18 ; Times: 8
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-10 ; Times: 4
+	Date: 2016-02-11 ; Times: 8
+	Date: 2016-02-16 ; Times: 6
+	Date: 2016-02-17 ; Times: 9
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 13
+	Date: 2016-02-03 ; Times: 8
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 5
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 11
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-04 ; Times: 9
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo quercicus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Cycloramphus asper" ; Times: 2
+	Query: "nyctixalus" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Mesa&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Hyla microcephala oaxaca" ; Times: 1
+	Query: "Anomalepididae" ; Times: 2
+	Query: "Opheodrys county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 3
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "Hylodes asper" ; Times: 1
+	Query: "crotalus molossus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Storeria county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "Hylodes meridionalis" ; Times: 2
+	Query: "craugastor augusti" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34;" ; Times: 2
+	Query: "farancia louisiana ouachita" ; Times: 1
+	Query: "sceloporus arenicolus type:specimen preparations:dry" ; Times: 1
+	Query: "farancia erytrogramma south carolina" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Anolis distichus type:specimen institutioncode:TNHC" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Lepidophyma tuxtlae" ; Times: 15
+	Query: "specificepithet:scutulatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rana texas williamson" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "crotalus ravus" ; Times: 10
+	Query: "55253" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Tamazulapan order:Anura" ; Times: 1
+	Query: "genus:Trachycephalus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "Ficimia variegata" ; Times: 1
+	Query: "rhadinaea godmani" ; Times: 2
+	Query: "Anolis Poe type:specimen institutioncode:TNHC" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 1
+	Query: "agalychnis callidryas oaxaca" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Sampson&#34;" ; Times: 1
+	Query: "catalognumber:61951 institutioncode:TNHC" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "sierramadrensis" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "constrictor louisiana union" ; Times: 1
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34; (Colorado)" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "farancia erytrogramma florida" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "class:Amphibia county:&#34;Medina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:57000 institutioncode:TNHC" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "Heleophryne purcelli" ; Times: 1
+	Query: "Sceloporus arenicolus type:specimen (skeleton)" ; Times: 1
+	Query: "Eurycea Pterophila" ; Times: 2
+	Query: "ficimia streckeri" ; Times: 2
+	Query: "tantilla cucullata" ; Times: 2
+	Query: "(gekkonidae) institutioncode:TNHC" ; Times: 1
+	Query: "Pseudoeurycea leprosa stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "phrynohyas venulosa oaxaca" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Cuaspad" ; Times: 1
+	Query: "victoria county texas reptilia" ; Times: 1
+	Query: "conophis vittatus oaxaca" ; Times: 2
+	Query: "92828" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:insularum" ; Times: 1
+	Query: "Anolis type:specimen institutioncode:TNHC" ; Times: 1
+	Query: "Anolis lazell type:specimen institutioncode:TNHC" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:multivirgatus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Eurycea tynerensis 1" ; Times: 1
+	Query: "Anolis institutioncode:TNHC" ; Times: 1
+	Query: "Heterodon simus (Florida)" ; Times: 2
+	Query: "Anolis sagrei type:specimen institutioncode:TNHC" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+	Query: "sceloporus arenicolus type:specimen preparations:skel" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 2
+	Query: "UTA 10630" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "cascade caverns" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "Rhamphophryne" ; Times: 1
+	Query: "33755" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 512 download events in this period)
+Total number of records downloaded: 5642
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 14
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-17 ; Times: 4
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-15 ; Times: 4
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 5
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Crotalus cerastes Nevada" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 3
+	Query: "Philodryas" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:Gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "lepidophyma" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "genus:Apalone stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "class:reptilia country:Dominican Republic" ; Times: 1
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bufo nelsoni Nevada" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "heleophryne" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+
+
+End of report.
