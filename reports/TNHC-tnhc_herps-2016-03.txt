@@ -1,0 +1,114 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 672
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 14
+	Country: Mexico ; Times: 7
+	Country: Spain ; Times: 4
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 16
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-01 ; Times: 2
+	Date: 2016-03-04 ; Times: 5
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "Salado Ecuador Amphibia" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Sistrurus county:&#34;Walker&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Abra de Zamora Amphibia" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34;" ; Times: 13
+	Query: "Abra de Zamora Ecuador Amphibia" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "29992" ; Times: 2
+	Query: "order:Anura class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Vaupes Amphibia" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "genus:conraua specificepithet:goliath" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "eurycea latitans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 230 download events in this period)
+Total number of records downloaded: 12799
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 33
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Abra de Zamora Amphibia" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Salado Ecuador Amphibia" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
