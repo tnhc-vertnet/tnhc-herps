@@ -1,0 +1,323 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 262
+Number of records retrieved in searches: 2252
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 207
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-02 ; Times: 4
+	Date: 2016-04-07 ; Times: 16
+	Date: 2016-04-06 ; Times: 17
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 9
+	Date: 2016-04-21 ; Times: 8
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-23 ; Times: 7
+	Date: 2016-04-22 ; Times: 14
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-24 ; Times: 20
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 23
+	Date: 2016-04-14 ; Times: 9
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 6
+	Date: 2016-04-17 ; Times: 15
+	Date: 2016-04-10 ; Times: 6
+	Date: 2016-04-11 ; Times: 12
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 9
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "genus:Pseudemys county:&#34;Terrell&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Elaphe dione" ; Times: 2
+	Query: "24556" ; Times: 1
+	Query: "graptemys blair" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 2
+	Query: "Hemidactylus turcicus (Erath County)" ; Times: 1
+	Query: "genus:Notophthalmus county:&#34;Lee&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 2
+	Query: "28423" ; Times: 1
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "dulcis county:&#34;terrell&#34;" ; Times: 1
+	Query: "ramspotti" ; Times: 1
+	Query: "order:Anura county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "elgaria yolo" ; Times: 4
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 3
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 2
+	Query: "genus:Scincella county:&#34;Terrell&#34;" ; Times: 1
+	Query: "Pseudacris brachyphona Virginia" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "graptemys nigrinoda" ; Times: 2
+	Query: "catalognumber:84947 institutioncode:TNHC" ; Times: 1
+	Query: "order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "genus:arizona order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "opheodrys blair" ; Times: 3
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+	Query: "LSU 2577" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;bexar&#34;" ; Times: 3
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "38774" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "55830" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Terrell&#34;" ; Times: 3
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "sceloporus blair" ; Times: 2
+	Query: "graptemys caglei" ; Times: 2
+	Query: "specificepithet:degenhardtii genus:Stenorrhina country:&#34;Panama&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "Hemidactylus turcicus (erath County)" ; Times: 1
+	Query: "genus:lampropeltis order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Pipa myersi" ; Times: 2
+	Query: "ptychadena neumanni" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus stateprovince:&#34;alabama&#34; year &gt;= 1960" ; Times: 1
+	Query: "trachemys gaigeae gaigeae" ; Times: 1
+	Query: "Scincidae skeletal" ; Times: 3
+	Query: "hyla avivoca alabama" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 2
+	Query: "Ficimia streckeri CM" ; Times: 2
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 1
+	Query: "lampropeltis triangulum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 3
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "eurycea troglodytes" ; Times: 4
+	Query: "lepidophyma tuxtlae" ; Times: 4
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "kinosternon spooneri" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Crockett&#34;" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 2
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Crotalus ravus" ; Times: 2
+	Query: "Oocatochus rufodorsatus" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Vipera latastei" ; Times: 4
+	Query: "ficimia streckeri" ; Times: 6
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "eurycea tridentifera" ; Times: 8
+	Query: "boeleni" ; Times: 2
+	Query: "sceloporus undulatus blair" ; Times: 1
+	Query: "Claudius angustatus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "heterodon platirhinos blair" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "RMB 4500" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "odontophrynus occidentalis" ; Times: 1
+	Query: "TNHC 66815" ; Times: 1
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "eurycea naufragia" ; Times: 3
+	Query: "class:amphibia county:&#34;Scott&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "cystignathoides institutioncode:TNHC" ; Times: 4
+	Query: "clonophis" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "hyperolius preparations:SKELETON" ; Times: 1
+	Query: "ptychadena cooperi" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "Holbrookia lacerata ward county" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "necturus blair" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 8
+	Query: "phrynosoma hernandesi stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "ptychadena schillukorum" ; Times: 1
+	Query: "eurycea tonkawae" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "Anura type:specimen (skeleton kenya)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 3
+	Query: "crotaphytus reticulatus" ; Times: 9
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "eurycea robusta" ; Times: 2
+	Query: "specificepithet:bairdi county:&#34;Terrell&#34;" ; Times: 1
+	Query: "coluber constrictor blair" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "ptychadena erlangeri" ; Times: 1
+	Query: "eublepharis" ; Times: 2
+	Query: "squamata order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "coluber blair" ; Times: 1
+	Query: "order:squamata county:&#34;bee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "specificepithet:triangulum stateprovince:&#34;Maryland&#34;" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1312 download events in this period)
+Total number of records downloaded: 41444
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 11
+	Country: United States ; Times: 36
+	Country: United Arab Emirates ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-15 ; Times: 9
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 5
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "ameiva tobago" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "ASPIDOSCELIS sonorae" ; Times: 1
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "ptychadena schillukorum" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "ASPIDOSCELIS FLAGELLICAUDA" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "ptychadena neumanni" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "ptychadena erlangeri" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 2
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ptychadena cooperi" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+
+
+End of report.
