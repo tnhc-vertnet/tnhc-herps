@@ -1,0 +1,41 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 1
+	Date: 2016-10-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 1
+	Query: " Anolis auratus 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 2
+	Query: "Anolis sagrei 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
