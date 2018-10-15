@@ -1,0 +1,380 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 2447
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 44
+	Country: United States ; Times: 215
+	Country: Israel ; Times: 3
+	Country: Iran ; Times: 5
+	Country: Mexico ; Times: 43
+	Country: Unknown ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Puerto Rico ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 11
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 24
+	Date: 2018-02-08 ; Times: 11
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 12
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 11
+	Date: 2018-02-06 ; Times: 22
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 23
+	Date: 2018-02-20 ; Times: 13
+	Date: 2018-02-23 ; Times: 16
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 12
+	Date: 2018-02-24 ; Times: 21
+	Date: 2018-02-27 ; Times: 57
+	Date: 2018-02-26 ; Times: 15
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 7
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 15
+	Date: 2018-02-11 ; Times: 9
+	Date: 2018-02-12 ; Times: 29
+	Date: 2018-02-13 ; Times: 12
+	Date: 2018-02-18 ; Times: 12
+	Date: 2018-02-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:compressus genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:scytalina genus:clelia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:variolosus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "&#34;insculpta&#34; hastissue:1" ; Times: 34
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Urotheca hastissue:1" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 6
+	Query: "Hemidactylus turcicus Sonora" ; Times: 1
+	Query: "class:reptilia county:&#34;presidio&#34; stateprovince:&#34;texas&#34; year &gt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "specificepithet:triseriatus genus:Crotalus stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "draco reticulatus" ; Times: 3
+	Query: "Crocodylus moreletti" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:neomexicana genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "specificepithet:capito genus:Rana stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 1
+	Query: "Barisia ciliaris" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 2
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "crotaphytus nebrius" ; Times: 6
+	Query: "Eleutherodactylus schwartzi" ; Times: 11
+	Query: "family:Uropeltidae hastissue:1" ; Times: 3
+	Query: "specificepithet:laredoensis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "hemidactylus turcicus brownsville" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "UTM Zone Map" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ventralis genus:Ophisaurus hastissue:1" ; Times: 2
+	Query: "Tantilla hobartsmithi Sonora" ; Times: 1
+	Query: "Leptopelis gramineus" ; Times: 1
+	Query: "specificepithet:communis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "lampropeltis annulata" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "Gastrophryne olivacea sonora" ; Times: 2
+	Query: "&#34;Glyptemys insculpta&#34; hastissue:1" ; Times: 2
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "Pseudacris feriarum Maryland institutioncode:TNHC" ; Times: 1
+	Query: "Lampropeltis Celaenops" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "Salvadora grahamiae sonora" ; Times: 1
+	Query: "Thamnophis marcianus Sonora" ; Times: 1
+	Query: "vntype:specimen specificepithet:arenicolus genus:sceloporus county:&#34;chaves&#34; stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "specificepithet:sackii genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 7
+	Query: "Caudiverbera vntype:specimen" ; Times: 9
+	Query: "Pseudacris clarkii (Kansas) year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "draco reticulatus TNHC" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "specificepithet:ornata county:&#34;Lee&#34;" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "TTU 75311" ; Times: 2
+	Query: "genus:Neurergus specificepithet:kaiseri" ; Times: 5
+	Query: "specificepithet:areolata genus:Rana county:&#34;hardin&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "hale genus:rana" ; Times: 1
+	Query: "clelia scytalina" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "Holbrookia elegans sonora" ; Times: 1
+	Query: "uta palmeri sonora" ; Times: 2
+	Query: "TNHC 63854" ; Times: 1
+	Query: "Lampropeltis triangulum Maryland" ; Times: 1
+	Query: "Pseudacris brachyphona West Virginia institutioncode:TNHC" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;texas&#34; institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 2
+	Query: "Bufo periglenes" ; Times: 1
+	Query: "TNHC 62458" ; Times: 1
+	Query: "TNHC 62459" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 2000" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Pseudacris brachyphona year &gt;= 1980 year &lt;= 2017" ; Times: 2
+	Query: "specificepithet:burti genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "TNHC 62454" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "craugastor augusti" ; Times: 13
+	Query: "specificepithet:cystignathoides stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "Rhinocheilus lecontei Sonora" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "TNHC 64210" ; Times: 2
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "genus:Atractus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crotalus molossus Sonora" ; Times: 1
+	Query: "Pseudacris brachyphona West Virginia year &gt;= 1960 year &lt;= 2017" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dixoni genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Reptilia Arizona barfoot" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "Uta palmeri sonora" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "genus:Masticophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 5
+	Query: "genus:Tantilla country:&#34;Costa Rica&#34; year &gt;= 1985" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "varanus island papua" ; Times: 1
+	Query: "Plethodon oconaluftee" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 3
+	Query: "dyscophus hastissue:1" ; Times: 3
+	Query: "79588" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "specificepithet:obsoletus genus:plestiodon county:&#34;kimble&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "Dipsas variegata" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 24
+	Query: "pseudacris feriarum maryland" ; Times: 1
+	Query: "Sceloporus poinsettii san luis potosi" ; Times: 1
+	Query: "Crotalus zacatecas" ; Times: 2
+	Query: "syrrhophus cystignathoides" ; Times: 1
+	Query: "Sceloporus magister sonora" ; Times: 1
+	Query: "order:Anura locality:Zamora country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Urosaurus bicarinatus sonora" ; Times: 1
+	Query: "class:reptilia county:&#34;val verde&#34; stateprovince:&#34;texas&#34; year &gt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "specificepithet:flagellicauda genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Chionactis palarostris Sonora" ; Times: 1
+	Query: "TNHC 64178" ; Times: 1
+	Query: "vntype:specimen county:&#34;chaves&#34; stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "Pseudacris clarkii year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (mico)" ; Times: 1
+	Query: "genus:Craugastor specificepithet:augusti" ; Times: 3
+	Query: "pseudis paradoxa" ; Times: 2
+	Query: "specificepithet:tesselata genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "Pseudacris brachyphona Ohio" ; Times: 1
+	Query: "specificepithet:obsoletus genus:plestiodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:variabilis genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "lepidobatrachus asper" ; Times: 1
+	Query: "Trimorphodon lambda Sonora" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "Crotalus atrox Sonora" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "genus:Siren county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 2
+	Query: "Streckeri missouri" ; Times: 2
+	Query: "specificepithet:elegans genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "Cophosaurus texanus sonora" ; Times: 2
+	Query: "specificepithet:motaguae genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:&#34;Coahuila&#34;" ; Times: 2
+	Query: "specificepithet:Areolata genus:Rana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Masticophis flagellum Sonora" ; Times: 2
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:leiocephalus hastissue:1" ; Times: 2
+	Query: "Caudiverbera" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "TNHC 61453" ; Times: 1
+	Query: "specificepithet:scytalina genus:clelia" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "pseudacris triseriata maryland" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Smilisca fodiens sonora" ; Times: 2
+	Query: "specificepithet:garnotti genus:Hemidactylus stateprovince:&#34;Florida&#34; year &gt;= 1980" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "genus:Aspidoscelis institutioncode:TNHC" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; month &gt;= 3 month &lt;= 3" ; Times: 2
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "Rana berlandieri sonora" ; Times: 2
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "vntype:specimen genus:Atelopus hastissue:1" ; Times: 2
+	Query: "Dibamus seramensis" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "trachycephalus resinifictrix" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana county:&#34;Newton&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "crotaphytus reticulatus texas" ; Times: 1
+	Query: "Gopherus agassizii Sonora" ; Times: 1
+	Query: "cerastes vipera" ; Times: 1
+	Query: "Aspidoscelis burti sonora" ; Times: 1
+	Query: "catalognumber:44332 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Agama pallida" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1892 download events in this period)
+Total number of records downloaded: 7678
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 68
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 7
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 7
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-10 ; Times: 11
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flagellicauda genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:exsanguis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "specificepithet:variolosus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:tesselata genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "Xenopus laevis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dixoni genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:nebulifer stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "specificepithet:neomexicana genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "specificepithet:sonorae genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 3
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "specificepithet:cystignathoides stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:marnockii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eleutherodactylus schwartzi" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "genus:Rhacophorus hastissue:1" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+
+
+End of report.
