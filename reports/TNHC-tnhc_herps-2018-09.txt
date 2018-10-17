@@ -1,0 +1,767 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 651
+Number of records retrieved in searches: 4116
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 238
+	Country: Sweden ; Times: 347
+	Country: Colombia ; Times: 11
+	Country: Austria ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-02 ; Times: 7
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 48
+	Date: 2018-09-01 ; Times: 18
+	Date: 2018-09-20 ; Times: 12
+	Date: 2018-09-21 ; Times: 50
+	Date: 2018-09-04 ; Times: 26
+	Date: 2018-09-05 ; Times: 34
+	Date: 2018-09-08 ; Times: 6
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 25
+	Date: 2018-09-30 ; Times: 14
+	Date: 2018-09-11 ; Times: 34
+	Date: 2018-09-10 ; Times: 13
+	Date: 2018-09-13 ; Times: 41
+	Date: 2018-09-12 ; Times: 44
+	Date: 2018-09-15 ; Times: 44
+	Date: 2018-09-14 ; Times: 35
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-16 ; Times: 39
+	Date: 2018-09-19 ; Times: 22
+	Date: 2018-09-18 ; Times: 19
+	Date: 2018-09-24 ; Times: 16
+	Date: 2018-09-25 ; Times: 32
+	Date: 2018-09-27 ; Times: 9
+	Date: 2018-09-06 ; Times: 43
+	Date: 2018-09-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Sistrurus county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Barisia imbricata Tlaxcala" ; Times: 1
+	Query: "Agkistrodon county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllomedusa perinesos " ; Times: 1
+	Query: "Agkistrodon county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "family:Viperidae county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Bailey&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 32009" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:71066 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Calloselasma rhodostoma hastissue:1" ; Times: 1
+	Query: "Agkistrodon county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Henderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Agkistrodon county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 88831" ; Times: 1
+	Query: "Crotalus county:&#34;Childress&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Jim Wells&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx hastissue:1" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Crotalus county:&#34;Comal&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:oculifera genus:graptemys" ; Times: 1
+	Query: "pelophryne signata" ; Times: 1
+	Query: "Crotalus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:arizona stateprovince:&#34;oklahoma&#34;" ; Times: 4
+	Query: "genus:Crotalus county:&#34;Lipscomb&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:coleonyx institutioncode:TNHC" ; Times: 1
+	Query: "&#34;Telmatobius ceiorum&#34;" ; Times: 4
+	Query: "brushy creek spring" ; Times: 1
+	Query: "Agkistrodon county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:pseudotrapelus hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Andrews&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ector&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:boreas AND (genus:Anaxyrus OR genus:Bufo) AND stateprovince:Alaska" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Gillespie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nolan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "salvadora mexicana" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Reeves&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hansford&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "Micrurus county:&#34;Chambers&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 64328" ; Times: 1
+	Query: "Ficimia variegata" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Guadalupe&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Cochran&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:gerrhonotus preparations:skeleton" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 93882" ; Times: 1
+	Query: "TNHC 93885" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Telmatobius schreiteri&#34;" ; Times: 2
+	Query: "Coniophanes quinquevittatus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Drymarchon institutioncode:TNHC" ; Times: 1
+	Query: "Rana brownorum" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "Crotalus county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ambystoma county:&#34;midland&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Dallam&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 38252" ; Times: 1
+	Query: "genus:Aphaniotis hastissue:1" ; Times: 2
+	Query: "pseudemys gorzugi" ; Times: 7
+	Query: "Crotalus county:&#34;Floyd&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leptodactylus poecilochilus hastissue:1" ; Times: 3
+	Query: "TNHC 6242" ; Times: 1
+	Query: "TNHC 64323" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "class:amphibia locality:skagway stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:tonkawae genus:eurycea county:&#34;Williamson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Dickens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Erath&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:Miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Agkistrodon county:&#34;Austin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Midland&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 36630" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "TNHC 36636" ; Times: 1
+	Query: "Agkistrodon county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ceratophora" ; Times: 1
+	Query: "Crotalus county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Chambers&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 18188" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Leon&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 27617" ; Times: 1
+	Query: "Agkistrodon county:&#34;Hartley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Ector&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:infernalis genus:gerrhonotus preparations:skeleton" ; Times: 1
+	Query: "TNHC 28499" ; Times: 1
+	Query: "genus:siren year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Crotalus county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Milam&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia county:&#34;winkler&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Richard Lardie" ; Times: 1
+	Query: "Crotalus county:&#34;Castro&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Crotalus county:&#34;Hockley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bombina maxima" ; Times: 2
+	Query: "Crotalus county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Crosby&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrelaps" ; Times: 3
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Brewster&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "atrox hill county texas" ; Times: 1
+	Query: "eleutherodactylus leprus" ; Times: 1
+	Query: "specificepithet:mitratus genus:coleonyx hastissue:1" ; Times: 1
+	Query: "Coleonyx Guatemala" ; Times: 2
+	Query: "thnc" ; Times: 2
+	Query: "Agkistrodon county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Sistrurus county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 59904" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Matagorda&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Sceloporus tehuacan" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Denton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "TNHC 37029" ; Times: 1
+	Query: "bryce brown" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "Florida farancia erytrogramma" ; Times: 1
+	Query: "Crotalus county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 38605" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Cass&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Bailey&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Helicops leopardinus hastissue:1" ; Times: 1
+	Query: "Crotalus county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Crosby&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;henderson&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 37117" ; Times: 1
+	Query: "Helicops hastissue:1" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Dickens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Ector&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "jefferson triangulum" ; Times: 3
+	Query: "specificepithet:wislizenii county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Anolis insignis" ; Times: 1
+	Query: "TNHC 38501" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Goliad&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Bufo boreas Alaska Island" ; Times: 1
+	Query: "Crotalus county:&#34;Hemphill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 1
+	Query: "Agkistrodon county:&#34;Fort Bend&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 37362" ; Times: 1
+	Query: "TNHC 37363" ; Times: 1
+	Query: "TNHC 37169" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Leon&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Donley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eristicophis" ; Times: 1
+	Query: "genus:Coleonyx institutioncode:TNHC hastissue:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "TNHC 31913" ; Times: 1
+	Query: "Crotalus county:&#34;Goliad&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Madison&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Coke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Cooke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Winkler&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Comal&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Erath&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hutchinson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Madison&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:lampropeltis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Agkistrodon county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:insularum" ; Times: 1
+	Query: "genus:phrynosoma county:&#34;mason&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:tonkawae genus:eurycea county:&#34;Williamson&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Comal&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Martin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Matagorda&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:reticulatus genus:coleonyx hastissue:1" ; Times: 1
+	Query: "Physalaemus henselii" ; Times: 1
+	Query: "TNHC 38724" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Castro&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "genus:coleonyx year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Dickens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leptodactylus fragilis hastissue:1" ; Times: 1
+	Query: "Walterinnesia" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus class:Reptilia institutioncode:TNHC" ; Times: 1
+	Query: "TNHC 48062" ; Times: 1
+	Query: "Crotalus county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Dawson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Graptemys Palo Pinto Texas" ; Times: 1
+	Query: "TNHC 38498" ; Times: 1
+	Query: "Crotalus county:&#34;Duval&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:71067 institutioncode:TNHC" ; Times: 2
+	Query: "class:amphibia locality:skagway" ; Times: 2
+	Query: "specificepithet:sonoriense genus:Kinosternon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Ambystoma class:amphibia stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kent&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Crosby&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Coke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:woodhousii county:&#34;Brewster&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Haskell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Moore&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Dickens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Hall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 37121" ; Times: 1
+	Query: "Agkistrodon county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Micrurus county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Glasscock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TTU 10378" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 3
+	Query: "genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Guadalupe&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lamb&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Micrurus county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Washington&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TTU 83675" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Ellis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Newton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Plethodontidae order:Caudata stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;florida&#34; year &gt;= 1960" ; Times: 1
+	Query: "brunneus class:amphibia continent:south america" ; Times: 1
+	Query: "Micrurus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Cochran&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "brunneus class:amphibia country:&#34;ecuador&#34; continent:south america" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Newton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 48027" ; Times: 1
+	Query: "Crotalus county:&#34;Howard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Winkler&#34;" ; Times: 1
+	Query: "TNHC 36506" ; Times: 1
+	Query: "TNHC 36505" ; Times: 1
+	Query: "Barisia imbricata Hidalgo" ; Times: 1
+	Query: "Sistrurus county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thecadactylus year &gt;= 2000" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Motley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "genus:Crotalus county:&#34;La Salle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Kimble&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Floyd&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Cooke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Micrurus county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Frio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Harrison&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Childress&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 87141" ; Times: 1
+	Query: "TNHC 63656" ; Times: 1
+	Query: "TNHC 62930" ; Times: 1
+	Query: "Crotalus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Cass&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 8
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:TNHC" ; Times: 2
+	Query: "Crotalus zacatecas" ; Times: 3
+	Query: "TNHC 63646" ; Times: 1
+	Query: "order:Squamata county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; AND (NOT hemidactylus NOT Serpentes NOT anolis NOT rhineura) year &gt;= 1990" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Irion&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Kaufman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Chambers&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scaphiopus (holbrooki OR holbrookii) year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:woodi genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Karnes&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Heterodon simus Florida" ; Times: 1
+	Query: "gerrhonotus infernalis skeleton" ; Times: 1
+	Query: "Sistrurus county:&#34;Hall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 37179" ; Times: 1
+	Query: "TNHC 60100" ; Times: 1
+	Query: "TNHC 60101" ; Times: 1
+	Query: "TNHC 60102" ; Times: 1
+	Query: "Agkistrodon county:&#34;Denton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 37172" ; Times: 1
+	Query: "TNHC 62946" ; Times: 1
+	Query: "TNHC 37174" ; Times: 1
+	Query: "Crotalus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Donley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mills&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Howard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Agkistrodon county:&#34;Gillespie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coleonyx mitratus Guatemala" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Agkistrodon county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 1
+	Query: "Crotalus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hutchinson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Morris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Coryell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren county:&#34;liberty&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hemphill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "barisia imbricata Tlaxcala" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Haskell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hartley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 1
+	Query: "Crotalus county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mitchell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Chambers&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Double Mountain Fork" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Medina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Agkistrodon county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Crane&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Sistrurus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea naufragia" ; Times: 4
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Culberson&#34;" ; Times: 1
+	Query: "genus:Heloderma hastissue:1" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 54921" ; Times: 1
+	Query: "genus:Thecadactylus year &gt;= 1990" ; Times: 1
+	Query: "TNHC 54922" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:drymarchon county:&#34;val verde&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Liberty&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Hudspeth&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Hartley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "thamnophis scalaris veracruz" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scandens genus:Pseudoeurycea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Andrews&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hansford&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 31896" ; Times: 1
+	Query: "Agkistrodon county:&#34;Henderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Barisia imbricata hidalgo" ; Times: 1
+	Query: "Crotalus county:&#34;Eastland&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Duval&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Erath&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Frio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heterodon Colorado" ; Times: 1
+	Query: "Sistrurus county:&#34;Andrews&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leptodactylus poecilochilus vntype:specimen hastissue:1" ; Times: 2
+	Query: "Agkistrodon county:&#34;Comal&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Crosby&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Milam&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rana sevosa" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leprus" ; Times: 1
+	Query: "Crotalus county:&#34;Dawson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Glasscock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Austin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gerrhonotus skeleton" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Austin&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus county:&#34;Hartley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Lamar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heterodon Arizona" ; Times: 4
+	Query: "Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Karnes&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Micrurus county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Sistrurus county:&#34;Henderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 58506" ; Times: 1
+	Query: "agkistrodon contortrix bastrop" ; Times: 2
+	Query: "catalognumber:50286 institutioncode:TNHC" ; Times: 1
+	Query: "Leptodeira frenata frenata" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lynn&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrelaps hastissue:1" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Crotalus county:&#34;Irion&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Liberty&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Conraua hastissue:1" ; Times: 5
+	Query: "genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:reticulatus genus:coleonyx" ; Times: 1
+	Query: "Agkistrodon county:&#34;Erath&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Scincella cherriei" ; Times: 11
+	Query: "genus:Elgaria stateprovince:&#34;California&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "TTU 10321" ; Times: 1
+	Query: "Micrurus county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Cass&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Fort Bend&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:coleonyx institutioncode:TNHC hastissue:1" ; Times: 3
+	Query: "Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Midland&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "class:Amphibia locality:Borneo" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;San Diego&#34; year &gt;= 1991 year &lt;= 2020" ; Times: 1
+	Query: "TNHC 62951" ; Times: 1
+	Query: "TNHC 40605" ; Times: 1
+	Query: "TNHC 62954" ; Times: 1
+	Query: "Crotalus county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Nolan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Fisher&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Dallam&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Ellis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;El Paso&#34;" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Midland&#34;" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Chambers&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hockley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Motley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Andrews&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:86201 institutioncode:TNHC" ; Times: 2
+	Query: "Crotalus county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 135 (out of 846 download events in this period)
+Total number of records downloaded: 18877
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 43
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 83
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 12
+	Date: 2018-09-17 ; Times: 12
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-12 ; Times: 9
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 26
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-18 ; Times: 39
+	Date: 2018-09-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Ninia diademata diademata" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "Aspidoscelis deppii" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "hemidactylus frenatus continent:Asia hastissue:1" ; Times: 1
+	Query: "Desmognathus conanti" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "sistrurus miliarius Oklahoma" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:grobmani genus:Plethodon" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "genus:Crotaphytus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 2
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "specificepithet:cowlesi genus:sceloporus" ; Times: 2
+	Query: "genus:Conraua" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Ficimia variegata" ; Times: 1
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+	Query: "Coniophanes quinquevittatus" ; Times: 1
+	Query: "Aspidoscelis guttata guttata" ; Times: 1
+	Query: "genus:desmognathus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "leptodactylus poecilochilus hastissue:1" ; Times: 2
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "microscaphus" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "specificepithet:tonkawae genus:eurycea county:&#34;Williamson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "huehuetenango anura" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Scincella cherriei" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Michigan&#34; hastissue:1" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "Trachylepis varia" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Trimorphodon tau tau" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Coniophanes ﬁssidens ﬁssidens" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
