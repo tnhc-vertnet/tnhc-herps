@@ -1,0 +1,453 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 808
+Number of records retrieved in searches: 3621
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Turkey ; Times: 7
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Sweden ; Times: 63
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Canada ; Times: 23
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Belgium ; Times: 4
+	Country: United States ; Times: 650
+	Country: Philippines ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 22
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 16
+	Date: 2019-02-13 ; Times: 11
+	Date: 2019-02-12 ; Times: 17
+	Date: 2019-02-15 ; Times: 23
+	Date: 2019-02-14 ; Times: 7
+	Date: 2019-02-17 ; Times: 13
+	Date: 2019-02-16 ; Times: 4
+	Date: 2019-02-19 ; Times: 47
+	Date: 2019-02-18 ; Times: 11
+	Date: 2019-02-02 ; Times: 168
+	Date: 2019-02-03 ; Times: 145
+	Date: 2019-02-26 ; Times: 17
+	Date: 2019-02-01 ; Times: 9
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-07 ; Times: 9
+	Date: 2019-02-04 ; Times: 77
+	Date: 2019-02-05 ; Times: 10
+	Date: 2019-02-08 ; Times: 8
+	Date: 2019-02-09 ; Times: 74
+	Date: 2019-02-28 ; Times: 11
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-25 ; Times: 24
+	Date: 2019-02-27 ; Times: 15
+	Date: 2019-02-06 ; Times: 20
+	Date: 2019-02-21 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Knox&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "tonkawae" ; Times: 1
+	Query: "catalognumber:96996 institutioncode:TNHC" ; Times: 1
+	Query: "79677" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Refugio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Starr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cnemidophorus lacertoides" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "deirochelys texas lavaca" ; Times: 1
+	Query: "vntype:specimen genus:Phrynosoma institutioncode:TNHC" ; Times: 1
+	Query: "TNHC-87141" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas institutioncode:TNHC" ; Times: 1
+	Query: "genus:Crotalus county:&#34;williamson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DMH 91" ; Times: 2
+	Query: "catalognumber:102949 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:minor genus:sternotherus institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gerrhonotus multicarinata" ; Times: 2
+	Query: "85469" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa institutioncode:TNHC catalognumber:36637" ; Times: 6
+	Query: "pantherophis slowinskii" ; Times: 2
+	Query: "order:Squamata county:&#34;Knox&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:kriegi genus:Pleurodema institutioncode:TNHC catalognumber:37178" ; Times: 6
+	Query: "catalognumber:18501 institutioncode:TNHC" ; Times: 1
+	Query: "Crocodylus moreletti" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:crocodylus institutioncode:TNHC" ; Times: 4
+	Query: "specificepithet:niger genus:Telmatobius institutioncode:TNHC catalognumber:62930" ; Times: 6
+	Query: "specificepithet:contortrix genus:Agkistrodon year &gt;= 1899 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:niger genus:Telmatobius institutioncode:TNHC catalognumber:62934" ; Times: 6
+	Query: "specificepithet:vibicaria genus:Rana institutioncode:TNHC catalognumber:31888" ; Times: 6
+	Query: "gavialis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Webb&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:phyllorhynchus recordnumber:rwm" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:gavialis institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:TNHC catalognumber:28527" ; Times: 6
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:infernalis genus:gerrhonotus institutioncode:TNHC" ; Times: 1
+	Query: "TNHC-38498" ; Times: 1
+	Query: "90935" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:TNHC catalognumber:63656" ; Times: 6
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:TNHC catalognumber:63651" ; Times: 6
+	Query: "genus:Atelopus specificepithet:glyphus" ; Times: 31
+	Query: "94324" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Panama&#34;" ; Times: 1
+	Query: "deirochelys texas taylor" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes institutioncode:TNHC catalognumber:62745" ; Times: 6
+	Query: "specificepithet:acanthi genus:Limnonectes institutioncode:TNHC catalognumber:54922" ; Times: 6
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "specificepithet:acanthi genus:Limnonectes institutioncode:TNHC catalognumber:54920" ; Times: 6
+	Query: "specificepithet:acanthi genus:Limnonectes institutioncode:TNHC catalognumber:54921" ; Times: 6
+	Query: "Rana sphenocephala OMNH" ; Times: 1
+	Query: "Eirenis coronella" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Uvalde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:Eurycea locality:Reimers institutioncode:TNHC" ; Times: 2
+	Query: "genus:Masticophis country:&#34;Panama&#34;" ; Times: 2
+	Query: "TNHC 101886" ; Times: 1
+	Query: "contia tenuis county:&#34;yolo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:delalandii genus:Tomopterna institutioncode:TNHC catalognumber:38252" ; Times: 3
+	Query: "TNHC 62481" ; Times: 2
+	Query: "specificepithet:paradorsalis genus:Afrixalus institutioncode:TNHC catalognumber:48027" ; Times: 9
+	Query: "specificepithet:moreletii genus:Agalychnis institutioncode:TNHC catalognumber:31913" ; Times: 9
+	Query: "58978" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:haynes" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:101243 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:64460 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:borellii genus:Pleurodema institutioncode:TNHC catalognumber:37121" ; Times: 6
+	Query: "class:Reptilia locality:Papantla stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:eximia genus:Hyla institutioncode:TNHC catalognumber:32016" ; Times: 6
+	Query: "44998" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34;" ; Times: 3
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34; (spicewood)" ; Times: 1
+	Query: "genus:Pseudoboa institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus institutioncode:TNHC catalognumber:37169" ; Times: 6
+	Query: "catalognumber:102948 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:woodworthi genus:Limnonectes institutioncode:TNHC catalognumber:62954" ; Times: 6
+	Query: "specificepithet:martiensseni genus:Arthroleptides institutioncode:TNHC catalognumber:38498" ; Times: 6
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:TNHC catalognumber:32009" ; Times: 6
+	Query: "genus:Coleonyx recordnumber:rwm" ; Times: 2
+	Query: "Rana sphenocephala oklahoma OMNH" ; Times: 1
+	Query: "TTU 74491" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cnemidophorus gularis semiannulatus" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;El Paso&#34;" ; Times: 1
+	Query: "specificepithet:perinesos genus:Phyllomedusa institutioncode:TNHC catalognumber:88831" ; Times: 6
+	Query: "genus:Sanguirana specificepithet:acai" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "UTA 6358" ; Times: 2
+	Query: "specificepithet:degenhardtii genus:Stenorrhina country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:gerrhonotus institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lemur genus:Peltophryne institutioncode:TNHC catalognumber:93885" ; Times: 6
+	Query: "specificepithet:lemur genus:Peltophryne institutioncode:TNHC catalognumber:93882" ; Times: 6
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "genus:Crotalus county:&#34;real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Amphibia kentucky breckenridge" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:ARIZONA (RWM)" ; Times: 2
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus institutioncode:TNHC catalognumber:37172" ; Times: 6
+	Query: "TNHC-36504" ; Times: 1
+	Query: "genus:gerrhonotus catalognumber:108739 institutioncode:TNHC" ; Times: 1
+	Query: "pseudacris feriarum mississippi" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:TNHC catalognumber:59904" ; Times: 6
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "crotalus zacatecas" ; Times: 1
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:60363 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:58843 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:moreletii genus:Agalychnis institutioncode:TNHC catalognumber:31914" ; Times: 9
+	Query: "Leptotyphlops dissectus" ; Times: 1
+	Query: "genus:Eurycea specificepithet:latitans" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:guttilatus stateprovince:&#34;texas&#34;" ; Times: 7
+	Query: "UTA 5114" ; Times: 2
+	Query: "specificepithet:pleei genus:Mastigodryas class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis mexicana san luis potosi" ; Times: 2
+	Query: "ceratophrys ar" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Liodytes mappable:1" ; Times: 1
+	Query: "specificepithet:barrioi genus:Physalaemus institutioncode:TNHC catalognumber:60101" ; Times: 6
+	Query: "TTU 82701" ; Times: 1
+	Query: "deirochelys texas lee" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "deirochelys texas" ; Times: 3
+	Query: "catalognumber:103342 institutioncode:TNHC" ; Times: 1
+	Query: "CM- 47448" ; Times: 2
+	Query: "san Gabriel park genus:Eurycea county:&#34;Williamson&#34;" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34; recordedby:Hillis institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:TNHC catalognumber:32004" ; Times: 6
+	Query: "genus:Pseustes country:&#34;Panama&#34;" ; Times: 1
+	Query: "Phyllobates aurotaenia" ; Times: 1
+	Query: "RMB 4028" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC-40603" ; Times: 1
+	Query: "genus:Hemidactylium institutioncode:TNHC" ; Times: 2
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Scurry&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla institutioncode:TNHC catalognumber:27617" ; Times: 6
+	Query: "specificepithet:melanolomus genus:Mastigodryas stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:sternotherus institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Zapata&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:kadarsani genus:Limnonectes institutioncode:TNHC catalognumber:64327" ; Times: 6
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "specificepithet:grylio genus:Rana institutioncode:TNHC catalognumber:18193" ; Times: 6
+	Query: "genus:Crotalus county:&#34;blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Phasmahyla institutioncode:TNHC catalognumber:37029" ; Times: 6
+	Query: "specificepithet:lesueurii genus:Litoria institutioncode:TNHC catalognumber:37363" ; Times: 6
+	Query: "specificepithet:kadarsani genus:Limnonectes institutioncode:TNHC catalognumber:64323" ; Times: 6
+	Query: "Phyllobates vittatus" ; Times: 1
+	Query: "alligator (alcoholic) institutioncode:TNHC" ; Times: 1
+	Query: "Crotalus mitchellii pyrrhus" ; Times: 1
+	Query: "genus:Hyla county:&#34;Henderson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:lesueurii genus:Litoria institutioncode:TNHC catalognumber:37362" ; Times: 6
+	Query: "Amastridium veliferum" ; Times: 1
+	Query: "specificepithet:kadarsani genus:Limnonectes institutioncode:TNHC catalognumber:64328" ; Times: 6
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:TNHC catalognumber:28499" ; Times: 6
+	Query: "boeleni" ; Times: 1
+	Query: "Vipera palaestinae" ; Times: 7
+	Query: "specificepithet:paradorsalis genus:Afrixalus institutioncode:TNHC catalognumber:38605" ; Times: 9
+	Query: "specificepithet:paradorsalis genus:Afrixalus institutioncode:TNHC catalognumber:48062" ; Times: 9
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "107820" ; Times: 1
+	Query: "espeletia" ; Times: 1
+	Query: "Agkistrodon contortrix pictigaster" ; Times: 1
+	Query: "specificepithet:nodosus genus:Alsodes institutioncode:TNHC catalognumber:36506" ; Times: 6
+	Query: "specificepithet:nodosus genus:Alsodes institutioncode:TNHC catalognumber:36505" ; Times: 6
+	Query: "specificepithet:nodosus genus:Alsodes institutioncode:TNHC catalognumber:36504" ; Times: 6
+	Query: "specificepithet:boulengeri genus:Scinax institutioncode:TNHC catalognumber:40605" ; Times: 6
+	Query: "specificepithet:boulengeri genus:Scinax institutioncode:TNHC catalognumber:40604" ; Times: 6
+	Query: "catalognumber:64159 institutioncode:TNHC" ; Times: 1
+	Query: "TNHC alligator" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax institutioncode:TNHC catalognumber:40603" ; Times: 6
+	Query: "73020" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa institutioncode:TNHC catalognumber:36636" ; Times: 6
+	Query: "catalognumber:85172 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:tarsius genus:Phyllomedusa institutioncode:TNHC catalognumber:36630" ; Times: 6
+	Query: "specificepithet:kriegi genus:Pleurodema institutioncode:TNHC catalognumber:37179" ; Times: 6
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:eleutherodactylus institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:moreletii genus:Agalychnis institutioncode:TNHC catalognumber:31915" ; Times: 9
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Zapata&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:100830 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Stephens&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oscaecilia ochrocephala" ; Times: 1
+	Query: "DMH Georgetown genus:Eurycea county:&#34;Williamson&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:Rana institutioncode:TNHC catalognumber:87142" ; Times: 6
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:dunni genus:Rana institutioncode:TNHC catalognumber:87141" ; Times: 6
+	Query: "Tynerensis missouri" ; Times: 2
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;México&#34;" ; Times: 1
+	Query: "Anolis gadovii" ; Times: 3
+	Query: "specificepithet:melanolomus genus:Mastigodryas country:&#34;Panama&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana institutioncode:TNHC catalognumber:18188" ; Times: 6
+	Query: "genus:Drymarchon country:&#34;Panama&#34;" ; Times: 3
+	Query: "lepidophyma flavimaculatum mexico" ; Times: 1
+	Query: "genus:Drymarchon AND (NOT USA NOT MEXICO) institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:vibicaria genus:Rana institutioncode:TNHC catalognumber:31896" ; Times: 6
+	Query: "specificepithet:vibicaria genus:Rana institutioncode:TNHC catalognumber:31894" ; Times: 6
+	Query: "Amphibia Tennessee Henderson" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes institutioncode:TNHC catalognumber:62946" ; Times: 6
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Shackelford&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:TNHC catalognumber:63646" ; Times: 6
+	Query: "genus:Acris county:&#34;Decatur&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:TNHC catalognumber:28531" ; Times: 6
+	Query: "specificepithet:delalandii genus:Tomopterna institutioncode:TNHC catalognumber:38724" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Potter&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oral history" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ambystoma bombypellum" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Williamson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borellii genus:Pleurodema institutioncode:TNHC catalognumber:37118" ; Times: 6
+	Query: "94076" ; Times: 1
+	Query: "catalognumber:51040 institutioncode:TNHC" ; Times: 1
+	Query: "TNHC-31894" ; Times: 1
+	Query: "TNHC-18188" ; Times: 1
+	Query: "Varanus nuchalis" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:borellii genus:Pleurodema institutioncode:TNHC catalognumber:37117" ; Times: 6
+	Query: "genus:alligator institutioncode:TNHC" ; Times: 1
+	Query: "san Gabriel genus:Eurycea county:&#34;Williamson&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anthracinus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "TNHC-32004" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes institutioncode:TNHC catalognumber:62744" ; Times: 6
+	Query: "gavialis institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Saba&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Starr&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTA 6359" ; Times: 2
+	Query: "Macrochelys texas" ; Times: 4
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "crocodylus moreletti" ; Times: 3
+	Query: "conopsis nasus jalisco" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Ward&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:101242 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes institutioncode:TNHC catalognumber:62951" ; Times: 6
+	Query: "specificepithet:biligonigerus genus:Physalaemus institutioncode:TNHC catalognumber:37425" ; Times: 6
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:TNHC catalognumber:32008" ; Times: 6
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Randall&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:barrioi genus:Physalaemus institutioncode:TNHC catalognumber:60100" ; Times: 6
+	Query: "alligator institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:barrioi genus:Physalaemus institutioncode:TNHC catalognumber:60102" ; Times: 6
+	Query: "Limnonectes arathooni" ; Times: 9
+	Query: "catalognumber:64456 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia locality:Nata stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:macrocephalus genus:Limnonectes institutioncode:TNHC catalognumber:62746" ; Times: 6
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana institutioncode:TNHC catalognumber:18190" ; Times: 6
+	Query: "Dendrobates tinctorius" ; Times: 2
+	Query: "sdsu reptilia" ; Times: 1
+	Query: "specificepithet:kriegi genus:Pleurodema institutioncode:TNHC catalognumber:37174" ; Times: 6
+	Query: "RWM genus:Uta" ; Times: 7
+	Query: "genus:gerrhonotus preparations:skeleton institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:martiensseni genus:Arthroleptides institutioncode:TNHC catalognumber:38501" ; Times: 6
+	Query: "genus:Lachesis class:Reptilia country:&#34;Panama&#34;" ; Times: 2
+	Query: "caiman (alcoholic) institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:85173 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Gastrophryne stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:coerulea genus:elgaria institutioncode:TNHC" ; Times: 1
+	Query: "county:&#34;San Luis de la Paz&#34; stateprovince:&#34;Guanajuato&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ambystoma annulatum stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caiman institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia institutioncode:TNHC" ; Times: 1
+	Query: "Hemidactylium missouri" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Zavala&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus molossus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Winkler&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Throckmorton&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Notophthalmus order:Caudata class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Webb&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "92705" ; Times: 1
+	Query: "103886" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1227 download events in this period)
+Total number of records downloaded: 4146
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 35
+	Country: Israel ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-11 ; Times: 10
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "tonkawae" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "deirochelys texas" ; Times: 2
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:coerulea genus:elgaria institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bufo cristatus" ; Times: 2
+	Query: "specificepithet:asper genus:Bothrops country:&#34;Panama&#34;" ; Times: 2
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "Amastridium veliferum" ; Times: 1
+	Query: "desmognathus imitator" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "jalisco rana (pipiens)" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "vntype:specimen genus:Phrynosoma institutioncode:TNHC" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "espeletia" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Gymnopis multiplicata" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+
+End of report.
