@@ -1,0 +1,407 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 417
+Number of records retrieved in searches: 5695
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 377
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 13
+	Date: 2019-09-15 ; Times: 6
+	Date: 2019-09-16 ; Times: 9
+	Date: 2019-09-17 ; Times: 6
+	Date: 2019-09-10 ; Times: 16
+	Date: 2019-09-11 ; Times: 15
+	Date: 2019-09-12 ; Times: 15
+	Date: 2019-09-13 ; Times: 10
+	Date: 2019-09-18 ; Times: 24
+	Date: 2019-09-19 ; Times: 25
+	Date: 2019-09-30 ; Times: 11
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 32
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 6
+	Date: 2019-09-06 ; Times: 38
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 68
+	Date: 2019-09-21 ; Times: 15
+	Date: 2019-09-20 ; Times: 31
+	Date: 2019-09-23 ; Times: 7
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-25 ; Times: 19
+	Date: 2019-09-24 ; Times: 10
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:masticophis county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:bimaculatus genus:Draco class:Reptilia" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 10
+	Query: "Ophisaurus incomptus" ; Times: 1
+	Query: "catalognumber:62666 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "genus:Draco class:Reptilia institutioncode:TNHC" ; Times: 4
+	Query: "Pseudis paradoxa mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Bothrops pictus" ; Times: 2
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "specificepithet:horrida genus:Homonota institutioncode:TNHC" ; Times: 5
+	Query: "catalognumber:14370 institutioncode:TNHC" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "tacubaya" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "RMB 6111" ; Times: 3
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:TNHC" ; Times: 8
+	Query: "specificepithet:sila genus:Gambelia preparations:skeleton" ; Times: 1
+	Query: "RMB 3479" ; Times: 2
+	Query: "TNHC 61572" ; Times: 2
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "RMB 1780" ; Times: 2
+	Query: "Ambystoma laterale stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "eleutherodactylus dennisi" ; Times: 2
+	Query: "specificepithet:caicosensis genus:Sphaerodactylus institutioncode:TNHC" ; Times: 4
+	Query: "43180" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:TNHC" ; Times: 5
+	Query: "Texas Hockley genus:sonora" ; Times: 1
+	Query: "catalognumber:64816 institutioncode:TNHC" ; Times: 2
+	Query: "bradypodion" ; Times: 1
+	Query: "genus:Claudius institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "RMB 4398" ; Times: 1
+	Query: "genus:&#34;Thamnophis&#34; county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "catalognumber:64818 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:dry" ; Times: 1
+	Query: "cystignathoides texas" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 9
+	Query: "genus:Phrynosoma class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:TNHC" ; Times: 3
+	Query: "gorzugi" ; Times: 1
+	Query: "class:Reptilia locality:Grapevine county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:wallacei genus:haideotriton stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Deirochelys reticularia stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "RMB 4348" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "catalognumber:64831 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:altae genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:hedricki" ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 2
+	Query: "genus:thamnophis county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Sistrurus colorado" ; Times: 5
+	Query: "sapelo class:Amphibia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dendropsophus bokermanni " ; Times: 2
+	Query: "Texas Hockley genus:Sonora" ; Times: 3
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:TNHC" ; Times: 5
+	Query: "family:Uropeltidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:63070 institutioncode:TNHC" ; Times: 2
+	Query: "class:Reptilia locality:California City county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "crotalus totonacus" ; Times: 1
+	Query: "specificepithet:fuscigula genus:Rana" ; Times: 1
+	Query: "catalognumber:64860 institutioncode:TNHC" ; Times: 2
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:TNHC" ; Times: 1
+	Query: "sceloporus merriami tnhc" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:7978 institutioncode:TNHC" ; Times: 1
+	Query: "TNHC 62483" ; Times: 2
+	Query: "genus:Apalone county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:64833 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;North Dakota&#34;" ; Times: 2
+	Query: "specificepithet:limosus genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "palustris warren" ; Times: 2
+	Query: "genus:Eurycea county:&#34;Williamson&#34; (bat)" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Willow Springs county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:underwoodi genus:Homonota institutioncode:TNHC" ; Times: 5
+	Query: "genus:crotalus county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:bimaculatus genus:Draco class:Reptilia institutioncode:TNHC" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:TNHC" ; Times: 5
+	Query: "toxicodryas" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "catalognumber:57419 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "velox coconino" ; Times: 3
+	Query: "genus:Pantherophis county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Tropidoclonion county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:TNHC" ; Times: 5
+	Query: "eleutherodactylus colima" ; Times: 3
+	Query: "LSU 54295" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 3
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;North Dakota&#34;" ; Times: 2
+	Query: "bufo pardalis" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "Uta 39267" ; Times: 1
+	Query: "genus:Nerodia county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 2
+	Query: "genus:Rhinophrynus country:&#34;mexico&#34;" ; Times: 4
+	Query: "107488" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:occidentalis" ; Times: 1
+	Query: "Sistematica" ; Times: 1
+	Query: "velox yavapai" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 2
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:eleutherodactylus genus:Cycloramphus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Potter&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Aspidoscelis county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:hypsiglena county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:glyphus genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:partidus genus:Phyllodactylus institutioncode:TNHC" ; Times: 5
+	Query: "TNHC 63002" ; Times: 2
+	Query: "specificepithet:boylii genus:Rana county:&#34;Marin&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eurycea l. longicauda" ; Times: 1
+	Query: "order:Gymnophiona institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:TNHC" ; Times: 3
+	Query: "genus:Diadophis county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leptodactylus fragilis texas" ; Times: 2
+	Query: "class:Amphibia locality:Urique stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bufo nebulifer specificepithet:nebulifer genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "JAM 4821" ; Times: 2
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:TNHC" ; Times: 5
+	Query: "genus:Hypsiglena county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 5
+	Query: "genus:Crotalus county:&#34;Hutchinson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:rhinocheilus county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "TTU 812" ; Times: 3
+	Query: "specificepithet:parthenopion genus:Sphaerodactylus institutioncode:TNHC" ; Times: 3
+	Query: "RMB 3596" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+	Query: "genus:Sauromalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona county:&#34;gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Ridgecrest county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:&#34;Lampropeltis&#34; county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:graptolaemus genus:Sphaerodactylus institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Hyperolius" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "specificepithet:intermedius genus:Gloydius" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "genus:Hypsiglena county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Urique stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Potter&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:99752 institutioncode:TNHC" ; Times: 3
+	Query: "genus:eleutherodactylus stateprovince:&#34;san luis potosi&#34;" ; Times: 1
+	Query: "illinoensis Pseudacris" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "Uta 7558" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "genus:Arizona county:&#34;Bee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Colubridae county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "RMB 1982" ; Times: 1
+	Query: "class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "lampropeltis ruthveni" ; Times: 2
+	Query: "67424" ; Times: 1
+	Query: "genus:Arizona county:&#34;goliad&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "yavapai velox" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 12
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "specificepithet:brownorum genus:Rana" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "eleutherodactylus longipes" ; Times: 1
+	Query: "velox williamson" ; Times: 3
+	Query: "specificepithet:compactilis family:bufonidae stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "TNHC 62713" ; Times: 2
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:arathooni genus:Limnonectes" ; Times: 1
+	Query: "genus:Sonora county:&#34;Hockley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Deirochelys reticularia&#34; &#34;North Carolina&#34;" ; Times: 1
+	Query: "draco cristatellus" ; Times: 1
+	Query: "catalognumber:6911 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Leptobrachium lumadorum" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "genus:Gambelia county:&#34;kern&#34;" ; Times: 1
+	Query: "RMB 4397" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "sceloporus merriami tnhc skeleton" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:TNHC" ; Times: 5
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:TNHC" ; Times: 5
+	Query: "class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB NOT XANTUSIA)" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "67501" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 1073 download events in this period)
+Total number of records downloaded: 8111
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 51
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 11
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 7
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 6
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "class:Reptilia locality:Cerralvo stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "centrolene" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Ambystoma laterale stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "nelsoni (Bufo OR Anaxyrus)" ; Times: 2
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "graptemys caglei" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Chironius grandisquamis" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Rana celebensis" ; Times: 2
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "&#34;Deirochelys reticularia&#34; &#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aphaniotis" ; Times: 2
+	Query: "boa imperator" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "locustus" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Potter&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "genus:dicamptodon county:&#34;marin&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:TNHC" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cystignathoides texas" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "canorus" ; Times: 1
+
+
+End of report.
