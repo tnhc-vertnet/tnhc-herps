@@ -1,0 +1,444 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 351
+Number of records retrieved in searches: 4129
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Taiwan ; Times: 1
+	Country: Unknown ; Times: 20
+	Country: Philippines ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: Russia ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Morocco ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: China ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 255
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 30
+	Date: 2019-10-08 ; Times: 10
+	Date: 2019-10-21 ; Times: 9
+	Date: 2019-10-20 ; Times: 10
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 17
+	Date: 2019-10-22 ; Times: 40
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-06 ; Times: 4
+	Date: 2019-10-23 ; Times: 20
+	Date: 2019-10-24 ; Times: 36
+	Date: 2019-10-29 ; Times: 18
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 4
+	Date: 2019-10-10 ; Times: 8
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 8
+	Date: 2019-10-31 ; Times: 9
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-17 ; Times: 13
+	Date: 2019-10-15 ; Times: 38
+	Date: 2019-10-28 ; Times: 12
+	Date: 2019-10-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:speciosus stateprovince:&#34;coahuila&#34; country:&#34;Mexico&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "TTU 83694" ; Times: 4
+	Query: "genus:Ambystoma institutioncode:TNHC" ; Times: 4
+	Query: "Thamnophis rufipunctatus 2018" ; Times: 1
+	Query: "Boiga TNHC" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "Atimonan" ; Times: 2
+	Query: "specificepithet:sinuatus genus:pelusios" ; Times: 1
+	Query: "genus:Callisaurus country:&#34;Mexico&#34; collectioncode:Herpetology institutioncode:TNHC" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:rubriventris" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "pictigaster" ; Times: 1
+	Query: "Storeria Missouri" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "collectioncode:Herpetology year &lt;= 1964 institutioncode:TNHC" ; Times: 1
+	Query: "ctenosaura hemilopha sinaloa" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:barbouri genus:graptemys stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Werneria preussi" ; Times: 1
+	Query: "Ambystoma californiense 2018" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 6
+	Query: "eleutherodactylus colima" ; Times: 2
+	Query: "68252" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 4
+	Query: "country:&#34;Mexico&#34; catalognumber:70019 collectioncode:Herpetology institutioncode:TNHC" ; Times: 1
+	Query: "bat well genus:eurycea" ; Times: 1
+	Query: "TTU 83701" ; Times: 4
+	Query: "43878" ; Times: 1
+	Query: "heloderma sinaloa" ; Times: 2
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "genus:Apalone recordedby:Drew Davis" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "collectioncode:Herpetology year &gt;= 1964 institutioncode:TNHC" ; Times: 1
+	Query: "hyla colima" ; Times: 1
+	Query: "genus:Ameiva country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Lynn&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:walkeri genus:Hyla country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Lynn&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "lampropeltis calligaster institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "masticophis bilineatus sinaloa" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:TNHC" ; Times: 3
+	Query: "genus:hyla county:&#34;gage&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Rana palmipes mappable:1" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "tnhc 41084" ; Times: 2
+	Query: "gyalopion sinaloa" ; Times: 3
+	Query: "catalognumber:70017 institutioncode:TNHC" ; Times: 1
+	Query: "Rana vaillanti mappable:1" ; Times: 3
+	Query: "TTU 92501" ; Times: 1
+	Query: "vntype:specimen specificepithet:dixoni genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:gorzugi family:Emydidae" ; Times: 1
+	Query: "Phrynobatrachus cryptotis" ; Times: 1
+	Query: "genus:Cophosaurus locality:Cerralvo" ; Times: 2
+	Query: "Sistrurus catenatus 2004" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "Sistrurus catenatus 2006" ; Times: 1
+	Query: "Sistrurus catenatus 2007" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "rmb 3353" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Sistrurus catenatus 2008" ; Times: 1
+	Query: "Chiasmocleis stateprovince:&#34;Rio de Janeiro&#34;" ; Times: 2
+	Query: "crotalus basiliscus sinaloa" ; Times: 1
+	Query: "vntype:specimen specificepithet:tigris marmoratus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Holbrookia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Triprion spatulatus" ; Times: 2
+	Query: "genus:Ambystoma institutioncode:TNHC haslifestage:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; AND (NOT KU NOT UF)" ; Times: 2
+	Query: "heloderma suspectum sinaloa" ; Times: 2
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:komodoensis genus:Varanus" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops country:&#34;Panama&#34;" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "KMH 2248" ; Times: 1
+	Query: "Texas Hockley genus:Sonora" ; Times: 1
+	Query: "Crocodylus acutus 2018" ; Times: 1
+	Query: "thamnophis tlaxcala" ; Times: 1
+	Query: "genus:Eurycea specificepithet:sosorum" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Gopherus agassizii 2006" ; Times: 1
+	Query: "class:Amphibia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "family:teiidae country:&#34;jamaica&#34;" ; Times: 2
+	Query: "Sistrurus catenatus 2012" ; Times: 1
+	Query: "genus:Hydrodynastes" ; Times: 1
+	Query: "Pleurodema bibroni" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "genus:Rana specificepithet:brownorum" ; Times: 1
+	Query: "eleutherodactylus cystignathoides texas" ; Times: 1
+	Query: "Sistrurus catenatus 2018" ; Times: 1
+	Query: "pantherophis lindheimeri" ; Times: 2
+	Query: "genus:Psammophis preparations:tissue" ; Times: 1
+	Query: "Chiasmocleis bicegoi" ; Times: 1
+	Query: "Cyclocorus Camarines Sur" ; Times: 1
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "TNHC Albay Philippines" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "arborea Hyla" ; Times: 4
+	Query: "63902" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 1
+	Query: "vntype:specimen recordedby:Drew Davis basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:striatula order:squamata stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "TTU 82703" ; Times: 2
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "pyromelana" ; Times: 1
+	Query: "Nectophryne batesii" ; Times: 3
+	Query: "Sistrurus catenatus 1984" ; Times: 1
+	Query: "Sistrurus catenatus 1985" ; Times: 1
+	Query: "specificepithet:bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Drew Davis" ; Times: 1
+	Query: "Sistrurus catenatus 1982" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 1
+	Query: "rhinocheilus sinaloa" ; Times: 1
+	Query: "specificepithet:Kennerlyi genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eupsophus roseus" ; Times: 2
+	Query: "lampropeltis institutioncode:TNHC" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "sceloporus nelsoni sinaloa" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "genus:Platymantis specificepithet:isarog" ; Times: 2
+	Query: "ttu 82779" ; Times: 4
+	Query: "Boiga TNHC Philippines" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:barrioi" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "lampropeltis sinaloa" ; Times: 2
+	Query: "Rana draytonii 2018" ; Times: 1
+	Query: "TTU 83675" ; Times: 2
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Haldea striatula" ; Times: 1
+	Query: "Dendrelaphis Albay" ; Times: 1
+	Query: "TTU 81675" ; Times: 3
+	Query: "66686" ; Times: 1
+	Query: "Gopherus agassizii 2018" ; Times: 1
+	Query: "TTU 84422" ; Times: 2
+	Query: "genus:Chrysemys recordedby:Drew Davis" ; Times: 3
+	Query: "44016" ; Times: 1
+	Query: "urosaurus ornatus sinaloa" ; Times: 1
+	Query: "Litoria arfakiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34; year &gt;= 1600 year &lt;= 1800" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Pseudis minuta" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:70018 institutioncode:TNHC" ; Times: 1
+	Query: "genus:pelobates hastissue:1" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;san mateo&#34;" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Ahaetulla Albay" ; Times: 4
+	Query: "110218" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gorzugi" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "TTU 79086" ; Times: 2
+	Query: "gastrophryne sinaloa" ; Times: 2
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 1
+	Query: "imantodes gemmistratus sinaloa" ; Times: 1
+	Query: "TTU 82779" ; Times: 3
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "catalognumber:70019 institutioncode:TNHC" ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "holbrookia elegans sinaloa" ; Times: 2
+	Query: "Astylosternus perreti" ; Times: 1
+	Query: "TTU 106051" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34; institutioncode:TNHC" ; Times: 2
+	Query: "genus:hemidactylium class:Amphibia stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "RMB 587" ; Times: 2
+	Query: "catalognumber:70014 institutioncode:TNHC" ; Times: 1
+	Query: "Storeria dekayi Missouri" ; Times: 3
+	Query: "Sistrurus catenatus 2003" ; Times: 1
+	Query: "bufo compactilis state of mexico" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Henderson&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 2
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "family:Bufonidae stateprovince:&#34;hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "hyla tlaxcala" ; Times: 2
+	Query: "illinoensis Pseudacris" ; Times: 1
+	Query: "Ctenosaura melanosterna" ; Times: 1
+	Query: "scinax trachythorax" ; Times: 3
+	Query: "109732" ; Times: 1
+	Query: "TTU 94259" ; Times: 2
+	Query: "Phyllomedusa camba" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "bufo marmoreus sinaloa" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:marnockii" ; Times: 1
+	Query: "RMB 3875" ; Times: 2
+	Query: "67214" ; Times: 3
+	Query: "RMB 3353" ; Times: 3
+	Query: "Pleurodema kriegi" ; Times: 1
+	Query: "Sistrurus catenatus 1997" ; Times: 1
+	Query: "sonora episcopa" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "catalognumber:70016 institutioncode:TNHC" ; Times: 2
+	Query: "trimorphodon paucimaculatus sinaloa" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:TNHC" ; Times: 3
+	Query: "catalognumber:70010 institutioncode:TNHC" ; Times: 1
+	Query: "genus:hemidactylus county:&#34;marion&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "spea tlaxcala" ; Times: 1
+	Query: "callisaurus sinaloa" ; Times: 2
+	Query: "rana tlaxcala" ; Times: 1
+	Query: "TNHC 65381" ; Times: 1
+	Query: "TTU 94024" ; Times: 2
+	Query: "Drymobius margaritiferus mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus 2010" ; Times: 1
+	Query: "Cyclocorus Camarines" ; Times: 1
+	Query: "urosaurus bicarinatus sinaloa" ; Times: 1
+	Query: "catalognumber:70015 institutioncode:TNHC" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "catalognumber:70000 institutioncode:TNHC" ; Times: 1
+	Query: "RMB 1087" ; Times: 2
+	Query: "sceloporus bulleri sinaloa" ; Times: 1
+	Query: "kinosternon integrum sinaloa" ; Times: 1
+	Query: "catalognumber:70016 collectioncode:Herpetology institutioncode:TNHC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 127 (out of 1308 download events in this period)
+Total number of records downloaded: 14121
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 46
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 32
+	Country: Philippines ; Times: 5
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 7
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 11
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 16
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-06 ; Times: 4
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-19 ; Times: 10
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-30 ; Times: 15
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 9
+	Date: 2019-10-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "Ptychadena perreti" ; Times: 2
+	Query: "Werneria preussi" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(36.232556717823115,-120.1208661486329))&lt;338269.069619651" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "Ptychadena aequiplicata" ; Times: 2
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "testudo graeca" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "Abronia" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "vntype:specimen specificepithet:marmorata genus:Aspidoscelis" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "Phrynobatrachus cryptotis" ; Times: 2
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "ameiva auberi" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "catalina class:reptilia stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:dixoni genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "specificepithet:gorzugi family:Emydidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34; year &gt;= 1600 year &lt;= 1800" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "prasinohaema" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "Astylosternus perreti" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:tigris marmoratus genus:Aspidoscelis" ; Times: 1
+
+
+End of report.
