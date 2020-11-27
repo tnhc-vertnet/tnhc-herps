@@ -1,0 +1,291 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 2049
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 50
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 5
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Vietnam ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 94
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 5
+	Date: 2019-12-24 ; Times: 52
+	Date: 2019-12-27 ; Times: 13
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-20 ; Times: 6
+	Date: 2019-12-23 ; Times: 7
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-12 ; Times: 6
+	Date: 2019-12-13 ; Times: 8
+	Date: 2019-12-16 ; Times: 8
+	Date: 2019-12-17 ; Times: 12
+	Date: 2019-12-30 ; Times: 4
+	Date: 2019-12-31 ; Times: 4
+	Date: 2019-12-09 ; Times: 8
+	Date: 2019-12-08 ; Times: 8
+	Date: 2019-12-07 ; Times: 10
+	Date: 2019-12-06 ; Times: 5
+	Date: 2019-12-05 ; Times: 7
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "ctenosaura texas" ; Times: 2
+	Query: "sceloporus spinosus morelos" ; Times: 1
+	Query: "specificepithet:rosei genus:Capensibufo" ; Times: 2
+	Query: "otosaurus cumingi" ; Times: 3
+	Query: "specificepithet:limosus genus:Atelopus" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Warren&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Saint James&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:muelleri genus:Ansonia" ; Times: 2
+	Query: "Oedipina pacificensis" ; Times: 3
+	Query: "109195" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "catalognumber:4807 institutioncode:TNHC" ; Times: 1
+	Query: "Hemidactylus frenatus hasmass:1" ; Times: 1
+	Query: "specificepithet:chamaeleontinus genus:Gonocephalus NOT (FMNH)" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "recordnumber:pa" ; Times: 1
+	Query: "specificepithet:rostrata genus:Rhinella" ; Times: 2
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "specificepithet:scutulatus county:&#34;Brewster&#34; institutioncode:TNHC" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "tantilla bocourti mexico" ; Times: 1
+	Query: "genus:Atelopus specificepithet:glyphus" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "specificepithet:debilis family:bufonidae stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Eugongylus institutioncode:TNHC" ; Times: 2
+	Query: "ambystoma bombypellum" ; Times: 3
+	Query: "Oedipina alleni" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "plestiodon morelos" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "genus:Rhinocheilus stateprovince:&#34;texas&#34; institutioncode:TNHC" ; Times: 3
+	Query: "family:Viperidae county:&#34;Brewster&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "cognatus zacatecas" ; Times: 1
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "specificepithet:peltocephala genus:Peltophryne" ; Times: 2
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "TTU 84870" ; Times: 1
+	Query: "class:Amphibia locality:Palm Canyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;chiapas&#34;" ; Times: 2
+	Query: "rana brownorum" ; Times: 3
+	Query: "specificepithet:anotis genus:Mertensophryne" ; Times: 2
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "specificepithet:lemur genus:Peltophryne" ; Times: 2
+	Query: "catalognumber:63070 institutioncode:TNHC" ; Times: 2
+	Query: "sceloporus torquatus zacatecas" ; Times: 2
+	Query: "Thamnophis marcianus hasmass:1" ; Times: 1
+	Query: "catalognumber:64833 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:debilis family:bufonidae stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Ficimia variegata" ; Times: 2
+	Query: "specificepithet:preussi genus:Werneria" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "24368" ; Times: 1
+	Query: "specificepithet:spurrelli genus:Atelopus" ; Times: 2
+	Query: "Rana berlandieri la salle" ; Times: 4
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "mastigodryas melanolomus mexico" ; Times: 2
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops institutioncode:TNHC" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "54011" ; Times: 1
+	Query: "plestiodon lynxe" ; Times: 1
+	Query: "aneides flavipunctatus san mateo" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Physalaemus institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:rubriventris genus:Melanophryniscus" ; Times: 2
+	Query: "Eleutherodactylus verrucipes" ; Times: 1
+	Query: "specificepithet:beccarii genus:Conraua" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 2
+	Query: "56609" ; Times: 1
+	Query: "specificepithet:multiplicata genus:spea institutioncode:TNHC" ; Times: 4
+	Query: "78651" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lampropeltis starr texas" ; Times: 1
+	Query: "eleutherodactylus morelos" ; Times: 1
+	Query: "sceloporus jarrovi zacatecas" ; Times: 1
+	Query: "91317" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Agalychnis litodryas" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "&#34;hemidactylus turcicus&#34; and &#34;webb&#34;" ; Times: 2
+	Query: "88850" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "specificepithet:tornieri genus:Nectophrynoides" ; Times: 2
+	Query: "58113" ; Times: 1
+	Query: "specificepithet:glyphus genus:Atelopus" ; Times: 2
+	Query: "hemidactylus mexico mexico" ; Times: 2
+	Query: "genus:Fritziana specificepithet:fissilis" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "conophis vittatus mexico" ; Times: 1
+	Query: "specificepithet:antiquus genus:Crotaphytus" ; Times: 2
+	Query: "family:Dactyloidae county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:borbonica genus:Leptophryne" ; Times: 2
+	Query: "Lampropeltis triangulum gentilis" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "Proceratophrys appendiculata" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:gargarizans genus:Bufo" ; Times: 2
+	Query: "&#34;hemidactylus turcicus&#34; AND &#34;kerr&#34;" ; Times: 1
+	Query: "genus:osteopilus county:&#34;alachua&#34;" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "Orthriophis moellendorffi" ; Times: 2
+	Query: "specificepithet:certus genus:Atelopus" ; Times: 2
+	Query: "plestiodon brevirostris mexico" ; Times: 4
+	Query: "specificepithet:batesii genus:Nectophryne" ; Times: 2
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 2
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "specificepithet:signata genus:Pelophryne" ; Times: 2
+	Query: "TTU 80682" ; Times: 1
+	Query: "specificepithet:ibarrai family:bufonidae country:&#34;guatemala&#34;" ; Times: 2
+	Query: "arizona zacatecas" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "&#34;hemidactylus turcicus&#34; and &#34;live oak&#34;" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 596 download events in this period)
+Total number of records downloaded: 4608
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Belgium ; Times: 23
+	Country: Honduras ; Times: 3
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 23
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-05 ; Times: 9
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Physalaemus institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "genus:Rana county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Mesaspis gadovii" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Oedipina pacificensis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "specificepithet:monticola genus:Desmognathus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Amolops" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Anolis scriptus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "anolis scriptus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Equatorial Guinea&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "ansonia" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:walkeri genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "Oedipina alleni" ; Times: 1
+	Query: "Mesaspis moreletii" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
