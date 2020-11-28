@@ -1,0 +1,355 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 3310
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 234
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-08 ; Times: 10
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 9
+	Date: 2020-09-01 ; Times: 18
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 6
+	Date: 2020-09-04 ; Times: 9
+	Date: 2020-09-21 ; Times: 11
+	Date: 2020-09-20 ; Times: 8
+	Date: 2020-09-23 ; Times: 14
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-25 ; Times: 9
+	Date: 2020-09-24 ; Times: 9
+	Date: 2020-09-27 ; Times: 4
+	Date: 2020-09-26 ; Times: 11
+	Date: 2020-09-29 ; Times: 26
+	Date: 2020-09-28 ; Times: 6
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-14 ; Times: 10
+	Date: 2020-09-15 ; Times: 15
+	Date: 2020-09-30 ; Times: 11
+	Date: 2020-09-17 ; Times: 6
+	Date: 2020-09-10 ; Times: 9
+	Date: 2020-09-11 ; Times: 22
+	Date: 2020-09-12 ; Times: 6
+	Date: 2020-09-13 ; Times: 9
+	Date: 2020-09-18 ; Times: 9
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tropidonophis philippines" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tonkawae genus:Eurycea county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "32708" ; Times: 1
+	Query: "catalognumber:62666 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:speciosus class:Amphibia county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:kings school cave county:&#34;marshall&#34;" ; Times: 1
+	Query: "TNHC 8656" ; Times: 1
+	Query: "RMB 1980" ; Times: 1
+	Query: "Crotalus pricei arizona" ; Times: 1
+	Query: "RMB 4000" ; Times: 2
+	Query: "Necturus beyeri alabama" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "locality:salamander cave" ; Times: 3
+	Query: "TTU 76291" ; Times: 1
+	Query: "cROTALUS SIMUS" ; Times: 1
+	Query: "3341 genus:Sphaerodactylus" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:spring lake hotel" ; Times: 1
+	Query: "RMB 3472" ; Times: 2
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Gastrophryne olivacea county:&#34;Kent&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:naufragia genus:eurycea" ; Times: 3
+	Query: "genus:Crotaphytus county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:kisatchie" ; Times: 1
+	Query: "Aphaniotis institutioncode:TNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Telmatobius niger " ; Times: 1
+	Query: "Aspidoscelis gularis county:&#34;Kent&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:speciosus class:Amphibia county:&#34;bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "specificepithet:chisholmensis genus:eurycea" ; Times: 3
+	Query: "genus:lampropeltis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:speciosus class:Amphibia county:&#34;gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Medina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "Heterodon platirhinos Colorado" ; Times: 1
+	Query: "hemidactylium scutatum maryland" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "Emoia tetrataenia" ; Times: 12
+	Query: "mccarthy 7251" ; Times: 2
+	Query: "RMB 3483" ; Times: 1
+	Query: "genus:gambelia county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus county:&#34;crockett&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "93142" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:852628c6-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "locality:schlumberger springs" ; Times: 1
+	Query: "Zaocys luzonensis" ; Times: 1
+	Query: "genus:Virginia county:&#34;Kendall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;LOuisiana&#34;" ; Times: 1
+	Query: "locality:spicewood springs county:&#34;real&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "recordnumber:7251" ; Times: 1
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "TTU 11129" ; Times: 2
+	Query: "locality:wetback spring county:&#34;uvalde&#34;" ; Times: 1
+	Query: "Aspidoscelis marmoratus county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:102716 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:Fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Uvalde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:hyla stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "genus:Gambelia stateprovince:&#34;Coahuila&#34; country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "&#34;Ahaetulla prasina&#34; Albay Philippines" ; Times: 1
+	Query: "locality:kretschmarr stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "TTU 75462" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Eurycea" ; Times: 1
+	Query: "Calamaria Sorsogon" ; Times: 1
+	Query: "TTU 75466" ; Times: 1
+	Query: "TTU 75464" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:Graptemys stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "locality:Paisano springs county:&#34;edwards&#34;" ; Times: 1
+	Query: "RMB 3413" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:96003 institutioncode:TNHC" ; Times: 1
+	Query: "prasinohaema semoni" ; Times: 1
+	Query: "specificepithet:horrida genus:Homonota institutioncode:TNHC" ; Times: 2
+	Query: "locality:kneedeep stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys institutioncode:TNHC" ; Times: 3
+	Query: "RMB 3707" ; Times: 1
+	Query: "parvoscincus abstrusus" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "RMB 4445" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:underwoodi genus:Homonota institutioncode:TNHC" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;mississippi&#34; institutioncode:TNHC" ; Times: 1
+	Query: "3342 genus:Sphaerodactylus" ; Times: 2
+	Query: "65175" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Eurycea county:&#34;Bandera&#34;" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34; institutioncode:TNHC" ; Times: 1
+	Query: "Hyla wrightorum arizona" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "specificepithet:imperialis genus:coniophanes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Rhinoclemmys order:Testudines country:&#34;Panama&#34;" ; Times: 1
+	Query: "crotalus lepidus hidalgo" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:TNHC" ; Times: 2
+	Query: "genus:eurycea locality:Taylor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Eurycea county:&#34;Medina&#34;" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:TNHC" ; Times: 2
+	Query: "TNHC 5344" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "county:&#34;oktibbeha&#34; stateprovince:&#34;mississippi&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus institutioncode:TNHC" ; Times: 1
+	Query: "RMB 4476" ; Times: 3
+	Query: "specificepithet:tridentifera family:Plethodontidae county:&#34;Comal&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lipinia pulchra" ; Times: 1
+	Query: "Graptemys geographica Indiana" ; Times: 1
+	Query: "tjm 7251" ; Times: 2
+	Query: "locality:morris springs county:&#34;real&#34;" ; Times: 1
+	Query: "boker" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;SHASTA&#34;" ; Times: 1
+	Query: "specificepithet:deppei genus:Pituophis stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Thomas&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "radix missouri" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:97315 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:TNHC" ; Times: 2
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Bell&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:tonkawae county:&#34;Travis&#34; institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:graptolaemus genus:Sphaerodactylus" ; Times: 1
+	Query: "malaclemys texas" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "genus:Virginia county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:partidus genus:Phyllodactylus institutioncode:TNHC" ; Times: 2
+	Query: "genus:Eurycea county:&#34;Williamson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "locality:lacey spring county:&#34;edwards&#34;" ; Times: 1
+	Query: "atelopus limosus" ; Times: 5
+	Query: "locality:testudo tube" ; Times: 2
+	Query: "atelopus glyphus" ; Times: 3
+	Query: "TNHC 62735" ; Times: 2
+	Query: "TNHC 62734" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:103015 institutioncode:TNHC" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "Parvoscincus abstrusus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus county:&#34;midland&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Bothrops stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:Graptemys stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "locality:salt creek cave county:&#34;lawrence&#34;" ; Times: 1
+	Query: "Pseudacris clarkii county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea county:&#34;Travis&#34;" ; Times: 2
+	Query: "Spea multiplicata county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "Gastrophryne olivacea county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tigris yavapai" ; Times: 1
+	Query: "specificepithet:rathbuni county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala) AND (NOT cuba)" ; Times: 1
+	Query: "genus:Physalaemus institutioncode:TNHC" ; Times: 1
+	Query: "DRD 2631" ; Times: 2
+	Query: "specificepithet:rathbuni family:Plethodontidae county:&#34;Hays&#34;" ; Times: 2
+	Query: "storeria storerioides" ; Times: 1
+	Query: "class:Amphibia county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:annulata genus:leptodeira stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "RMB 3528" ; Times: 2
+	Query: "graptemys clay" ; Times: 1
+	Query: "TTU 11131" ; Times: 2
+	Query: "RMB 1235" ; Times: 3
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "böker" ; Times: 2
+	Query: "locality:windmill cave county:&#34;medina&#34;" ; Times: 1
+	Query: "RMB 1981" ; Times: 2
+	Query: "87306" ; Times: 3
+	Query: "order:caudata stateprovince:&#34;mississippi&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:tonkawae genus:Eurycea county:&#34;Travis&#34; institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:58801 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:99624 institutioncode:TNHC" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Kent&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "61910 specificepithet:cumingii family:gekkonidae" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;Hudspeth&#34;" ; Times: 1
+	Query: "locality:rebecca creek springs county:&#34;hays&#34;" ; Times: 1
+	Query: "TNHC 62713" ; Times: 1
+	Query: "specificepithet:sosorum genus:Eurycea catalognumber:55131 institutioncode:TNHC" ; Times: 1
+	Query: "Aspidoscelis gularis county:&#34;Garza&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 2
+	Query: "family:Kinosternidae order:Testudines country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "stateprovince:&#34;mississippi&#34; institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "specificepithet:gemmistratus genus:imantodes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:jacksonii genus:Trioceros" ; Times: 2
+	Query: "63240" ; Times: 1
+	Query: "locality:water tank cave county:&#34;williamson&#34;" ; Times: 1
+	Query: "TNHC Zaocys luzonensis" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Adelphicos veraepacis" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:TNHC" ; Times: 2
+	Query: "TTU 98730" ; Times: 1
+	Query: "RMB 1240" ; Times: 1
+	Query: "locality:kittlewell stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "locality:preserve cave county:&#34;comal&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 976 download events in this period)
+Total number of records downloaded: 13251
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 37
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 6
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "storeria storerioides" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Boa imperator México" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "micrurus elegans" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "specificepithet:jacksonii genus:Trioceros" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "atelopus limosus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "atelopus glyphus" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "E. R. Pianka" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+
+
+End of report.
