@@ -1,0 +1,154 @@
+Report for Institution Code TNHC, Resource tnhc_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1167
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 6
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 19
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 71
+	Country: Sweden ; Times: 8
+	Country: China ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 23
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-06 ; Times: 9
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 33
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 12
+	Date: 2020-06-03 ; Times: 14
+	Date: 2020-06-01 ; Times: 10
+	Date: 2020-06-10 ; Times: 4
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trimorphodon texas" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Portuguesa&#34; country:&#34;Venezuela&#34; institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Philautus specificepithet:aurifasciatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS) institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:clarkii genus:sceloporus (skeleton)" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "93995" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "Tantilla cucullata" ; Times: 1
+	Query: "Carphophis Texas" ; Times: 9
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Urotheca" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Utah&#34; institutioncode:TNHC" ; Times: 1
+	Query: "TNHC Imantodes" ; Times: 3
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Portuguesa&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:sexlineata genus:Aspidoscelis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Pike&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carphophis vermis texas" ; Times: 3
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Varanus kordensis" ; Times: 2
+	Query: "country:&#34;Mexico&#34; Opheodrys" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "oedipina pa" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Dermophis oaxacae" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "specificepithet:jarrovii genus:sceloporus (skeleton)" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "specificepithet:jarrovii genus:sceloporus (skel)" ; Times: 2
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:phrynosoma county:&#34;blanco&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "catalognumber:62701 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; institutioncode:TNHC" ; Times: 2
+	Query: "triangulum stateprovince:&#34;Maryland&#34;" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Oakland&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "RT 286" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Hemidactylus brookii vntype:specimen country:&#34;Philippines&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 474 download events in this period)
+Total number of records downloaded: 1049
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "TNHC Imantodes" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+
+
+End of report.
